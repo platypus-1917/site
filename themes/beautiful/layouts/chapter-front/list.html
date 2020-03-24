@@ -24,7 +24,7 @@
 
         {{ end }}
         <div class="posts-list">
-          {{ range .Paginator.Pages }}
+          {{ range .Paginator.Pages.ByDate.Reverse }}
             <article class="post-preview">
               <a href="{{ .Permalink }}">
                 <h2 class="post-title">{{ .Title }}</h2>
