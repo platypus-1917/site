@@ -19,6 +19,7 @@ fractions = false
 anchor = "smart"
 quality = 75
 resampleFilter = "box"
+useNetlifyCMS = true
 
 [languages.de]
 languageName = "Deutsch"
