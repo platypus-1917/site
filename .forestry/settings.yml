@@ -1,0 +1,107 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/speakers
+  label: Speakers
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/convention
+  label: Convention
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/publishing
+  label: Publishing
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/media
+  label: Media
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/interviewees
+  label: Interviewees
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sq
+  label: Sq
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/podcast
+  label: Podcast
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/authors
+  label: Authors
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chapters
+  label: Chapters
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/article-type
+  label: Article type
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/platypus-review
+  label: Platypus review
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/archive
+  label: Archive
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gr
+  label: Gr
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/series
+  label: Series
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pedagogy
+  label: Pedagogy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.63.2
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.63.2
