@@ -1,0 +1,45 @@
+# Greek
+# Content
+- id: dateFormat
+  translation: "2 Ιανουαρίου 2006"
+- id: postedOnDate
+  translation: "{{ .Count }}"
+- id: translationsLabel
+  translation: "Αλλες γλώσσες: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "Διαβάστε περισσότερα"
+- id: olderPosts
+  translation: "Παλαιότερα άρθρα"
+- id: newerPosts
+  translation: "Νεότερα άρθρα"
+- id: previousPost
+  translation: "Προηγούμενο άρθρο"
+- id: nextPost
+  translation: "Επόμενο άρθρο"
+- id: issue
+  translation: έκδοση
+- id: authors
+  translation: συγγραφείς
+
+
+# 404 page
+- id: pageNotFound
+  translation: "Όπως και το μαζικό κίνημα του σοσιαλισμού, αυτή η σελίδα δεν μπορεί να βρεθεί. (404 error)"
+
+# Footer
+- id: poweredBy # Accepts HTML
+  translation: '<a href="https://gohugo.io">Hugo v{{ .Hugo.Version }}</a> powered &nbsp;&bull;&nbsp; Theme by <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>'
+
+# Navigation
+- id: toggleNavigation
+  translation: "Εναλλαγή πλοήγησης"
+- id: languageSwitcherLabel
+  translation: "Γλώσσα"
+- id: gcseLabelShort
+  translation: "ψάχνω"
+- id: gcseLabelLong
+  translation: "ψάχνω {{ .Site.Title }}"
+- id: gcseClose
+  translation: "κλείνω"

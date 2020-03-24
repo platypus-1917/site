@@ -1,0 +1,223 @@
+DefaultContentLanguage = "en"
+FootnoteReturnLinkContents = "↩"
+IsMultiLingual = true
+baseurl = "/"
+relativeURLs = true
+cleanDestinationDir = true
+metaDataFormat = "yaml"
+pygmentCodeFences = true
+pygmentsUseClasses = true
+theme = "beautifulplatypus"
+title = "Platypus"
+[author]
+facebook = "platypusreview"
+name = "The Platypus Affiliated Society"
+twitter = "platypus1917"
+[blackfriday]
+fractions = false
+[imaging]
+anchor = "smart"
+quality = 75
+resampleFilter = "box"
+
+[languages.de]
+languageName = "Deutsch"
+title = "Platypus"
+weight = 2
+[[languages.de.menu.main]]
+name = "Über"
+url = "/uber"
+weight = 1.0
+[[languages.de.menu.main]]
+name = "Medien"
+url = "/medien"
+weight = 1.2
+[[languages.de.menu.main]]
+identifier = "dpr"
+name = "Die Platypus Review"
+url = "#"
+weight = 2.0
+[[languages.de.menu.main]]
+name = "Letzte Ausgabe"
+parent = "dpr"
+url = "/platypus-review"
+weight = 1.0
+[[languages.de.menu.main]]
+name = "autorent"
+parent = "dpr"
+url = "/autorent"
+weight = 2.0
+[[languages.de.menu.main]]
+name = "Ausgabe"
+parent = "dpr"
+url = "/ausgabe/"
+weight = 2.0
+[[languages.de.menu.main]]
+name = "Tags"
+parent = "dpr"
+url = "/tags"
+weight = 4.0
+[[languages.de.menu.main]]
+name = "Kapitel"
+url = "/chapters"
+weight = 2.0
+[[languages.de.menu.main]]
+name = "Lesekreise"
+url = "/lesekreise"
+weight = 2.0
+[[languages.de.menu.main]]
+name = "Archive"
+url = "/archive"
+weight = 3.0
+[languages.de.taxonomies]
+issue = "issue"
+article-type = "article-type"
+authors = "authors"
+category = "categories"
+interviewees = "interviewees"
+media = "media"
+stuff = "stuff"
+speakers = "speakers"
+tags = "tags"
+translator = "translator"
+
+[languages.en]
+languageName = "English"
+weight = 0
+[languages.en.Taxonomies]
+article-type = "article-type"
+authors = "authors"
+category = "categories"
+interviewees = "interviewees"
+issue = "issue"
+media = "media"
+stuff = "stuff"
+speakers = "speakers"
+tags = "tags"
+translator = "translator"
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 1.0
+[[languages.en.menu.main]]
+identifier = "chapters"
+name = "Chapters"
+url = "/chapters"
+weight = 2.0
+[[languages.en.menu.main]]
+identifier = "pedagogy"
+name = "Pedagogy"
+url = "/pedagogy"
+weight = 2.5
+[[languages.en.menu.main]]
+identifier = "tpr"
+name = "The Platypus Review"
+url = "#"
+weight = 2
+[[languages.en.menu.main]]
+identifier = "latest"
+name = "Latest Issue"
+parent = "tpr"
+url = "/platypus-review"
+weight = 1.0
+[[languages.en.menu.main]]
+name = "Authors"
+parent = "tpr"
+url = "/authors"
+weight = 2.0
+[[languages.en.menu.main]]
+name = "Issues"
+parent = "tpr"
+url = "/issue"
+weight = 2.0
+[[languages.en.menu.main]]
+name = "Interviews"
+parent = "tpr"
+url = "/interviewees"
+weight = 2.0
+[[languages.en.menu.main]]
+name = "Tags"
+parent = "tpr"
+url = "/tags"
+weight = 4.0
+[[languages.en.menu.main]]
+identifier = "publishing"
+name = "Publishing"
+url = "/publishing"
+weight = 3.0
+[[languages.en.menu.main]]
+identifier = "media"
+name = "Media"
+url = "/media"
+weight = 3.5
+
+[languages.es]
+languageName = "Español"
+title = "Platypus"
+weight = 2
+
+[languages.fr]
+languageName = "Francais"
+title = "Platypus"
+weight = 2
+
+[languages.gr]
+languageName = "Ελληνικά"
+title = "Platypus"
+weight = 2
+[languages.gr.taxonomies]
+"έκδοση" = "έκδοση"
+"συγγραφείς" = "συγγραφείς"
+[languages.gr.permalinks]
+media = "/media/:year/:month/:slug/"
+page = "/:slug/"
+platypus-review = "/platypus-review/:year/:month/:slug/"
+post = "/:year/:month/:day/:slug/"
+
+[languages.sq]
+languageName = "Shqiptar" #Albanian
+title = "Platypus"
+weight = 2
+
+[params]
+comments = false
+commit = false
+dateformat = "January 2, 2006"
+favicon = "img/favicon.ico"
+logo = "img/apple-icon.png"
+pluralizelisttitles = true
+preservetaxonomynames = true
+rss = true
+subtitle = "The Left is Dead! Long Live the Left!"
+[params.slider]
+enable = true
+num_features = 6
+[permalinks]
+media = "/media/:year/:month/:slug/"
+page = "/:filename/"
+platypus-review = "/platypus-review/:year/:month/:slug/"
+post = "/:year/:month/:day/:slug/"
+[related]
+includeNewer = true
+threshold = 1
+toLower = false
+[[related.indices]]
+name = "keywords"
+weight = 30
+[[related.indices]]
+name = "article-type"
+weight = 25
+[[related.indices]]
+name = "authors"
+weight = 30
+[[related.indices]]
+name = "issue"
+weight = 60
+[[related.indices]]
+name = "tags"
+weight = 100
+[[related.indices]]
+name = "date"
+pattern = "2006"
+weight = 1

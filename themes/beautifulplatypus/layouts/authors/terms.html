@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <div class="container" role="main">
+      <article class="post-preview">
+      <div class="list-group col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2">
+          {{ $data := .Data }}
+            {{ range $key, $value := .Data.Terms.Alphabetical }}
+            <a href="{{ "authors/" | relLangURL }}{{ $value.Name | urlize }}" class="list-group-item">{{ $value.Name | humanize | title }}<span class="badge">{{ $value.Count }}</span></a>
+            {{ end }}
+        </div>
+    </article>
+  </div>
+{{ end }}

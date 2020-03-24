@@ -1,0 +1,7 @@
+<!--Embeds an HTML5 audio control widget into the webpage -->
+<audio controls
+	class="audio_controls">
+	<source {{ with .Get "src" }}src="{{ . }}"{{ end }}
+		type="audio/mpeg" >
+	Your browser does not support the audio element
+</audio>

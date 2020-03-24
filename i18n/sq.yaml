@@ -1,0 +1,40 @@
+# albanian
+# Content
+- id: dateFormat
+  translation: "2 janar 2006"
+- id: postedOnDate
+  translation: "{{ .Count }}"
+- id: translationsLabel
+  translation: "Gjuhe te tjera: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "Lexo më shumë"
+- id: olderPosts
+  translation: "Artikuj të vjetër"
+- id: newerPosts
+  translation: "Artikuj të rinj"
+- id: previousPost
+  translation: "Artikulli paraprak"
+- id: nextPost
+  translation: "Artikulli tjetër"
+
+# 404 page
+- id: pageNotFound
+  translation: "Ashtu si lëvizja masive për socializmin, kjo faqe nuk mund të gjendet. (404 error)"
+
+# Footer
+- id: poweredBy # Accepts HTML
+  translation: '<a href="https://gohugo.io">Hugo v{{ .Hugo.Version }}</a> powered &nbsp;&bull;&nbsp; Theme by <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> and further modified by <a href="https://platypus1917.org">The Platypus Affiliated Society</a>.'
+
+# Navigation
+- id: toggleNavigation
+  translation: "Skemë"
+- id: languageSwitcherLabel
+  translation: "Gjuhe"
+- id: gcseLabelShort
+  translation: "Kërkim"
+- id: gcseLabelLong
+  translation: "Kërkim {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Mbyll"

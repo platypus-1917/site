@@ -1,0 +1,42 @@
+# english
+# Content
+- id: dateFormat
+  translation: "January 2, 2006"
+- id: postedOnDate
+  translation: "{{ .Count }}"
+- id: translationsLabel
+  translation: "Other languages: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "Read More"
+- id: olderPosts
+  translation: "Older Articles"
+- id: newerPosts
+  translation: "Newer Articles"
+- id: previousPost
+  translation: "Previous Article"
+- id: nextPost
+  translation: "Next Article"
+- id: prName
+  translation: "Platypus Review"
+
+# 404 page
+- id: pageNotFound
+  translation: "Like the mass movement for socialism, this page cannot be found. (404 error)"
+
+# Footer
+- id: poweredBy # Accepts HTML
+  translation: '<a href="https://gohugo.io">Hugo v{{ .Hugo.Version }}</a> powered &nbsp;&bull;&nbsp; Theme by <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> and further modified by <a href="https://platypus1917.org">The Platypus Affiliated Society</a>.'
+
+# Navigation
+- id: toggleNavigation
+  translation: "Toggle navigation"
+- id: languageSwitcherLabel
+  translation: "Language"
+- id: gcseLabelShort
+  translation: "Search"
+- id: gcseLabelLong
+  translation: "Search {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Close"

@@ -1,0 +1,36 @@
+<section>
+<h4>Share this article</h4>
+<a href="//twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via={{ .Site.Social.twitter }}" target="_blank" >
+  <i class="fa icon-4x fa-twitter"></i>
+</a>
+
+<!-- Google Plus -->
+<a href="//plus.google.com/share?url={{ .Permalink }}" target="_blank" >
+    <i class="fa icon-4x fa-google-plus"></i>
+</a>
+
+<!-- Facebook -->
+<a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" >
+    <i class="fa icon-4x fa-facebook"></i>
+</a>
+
+<!-- Reddit (url, title) -->
+<a href="//reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}" target="_blank" >
+    <i class="fa icon-4x fa-reddit-alien"></i>
+</a>
+
+<!-- LinkedIn -->
+<a href="//www.linkedin.com/shareArticle?url={{ .Permalink }}&title={{ .Title }}" target="_blank" >
+    <i class="fa icon-4x fa-linkedin"></i>
+</a>
+
+<!-- StumbleUpon (url, title) -->
+<a href="//www.stumbleupon.com/submit?url={{ .Permalink }}&title={{ .Title }}" target="_blank" >
+    <i class="fa icon-4x fa-stumbleupon"></i>
+</a>
+
+<!-- Email -->
+<a href="mailto:?subject=Check out this article from The Platypus Review &body={{ .Permalink }}" target="_blank" >
+    <i class="fa icon-4x fa-envelope"></i>
+</a>
+</section>

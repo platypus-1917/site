@@ -1,0 +1,114 @@
+---
+aliases:
+- /2012/12/01/a-reply-to-stephan-grigat-on-anti-semitism-and-the-left-on-iran
+- A-reply-to-stephan-grigat-on-anti-semitism-and-the-left-on-iran-2
+issue: "52"
+authors: ["Yassamine Mather"]
+article-type: ["Article"]
+date: 2012-12-01
+tags:
+- PR Iran
+- Iran
+- Anti-semitism
+- Stephan Grigat
+title: A reply to Stephan Grigat
+subtitle: On anti-Semitism and the Left on Iran
+---
+
+THERE ARE SECTIONS of the international left that support Iran's Islamic regime, want to ban any criticism of its dictatorial practices, and condemn calls for its revolutionary overthrow because it is currently threatened by the U.S. and its allies. It is entirely legitimate to be sharply critical of this approach and to ask: What has created this bizarre allegiance of sections of the antiwar left with some of the most unsavory Islamic governments and political forces in the Middle East and beyond? To be sure, Islamophobic reactions after 9/11, a soft approach towards political Islam, illusions about how Islamists will naturally become "socialists" (a myth based on distorted stories of how some Iranian leftists in the 1970s had their start in the Islamist movement) have all played their role in generating this lash-up. It is therefore incumbent on the revolutionary left to distance itself from these policies, tactics, and strategies that have played such an important part in weakening the antiwar movement.
+
+However, the article, "To Know the Worst: Anti-Semitism and the Failure of the Left on Iran," by Stephan Grigat in the September 2012 issue of *The Platypus Review* is so politically sloppy and full of factual errors (based, as it is, on the latest Mossad misinformation about the subject) that the result is counter-productive. Whatever the intentions, which, frankly, are questionable, the claims in the article are so inaccurate that it actually plays into the hands of the Islamic regime in Iran and its supporters.
+
+Grigat does not seem to realize the difference between Khomeini, Iran's supreme leader between 1979 and 1988, and his successor, Khamenei. On one occasion Grigat refers to "Ali Khomeini," but the ayatollahs do not share a surname, are not related to each other, and the Shia clerical system is not dynastic. But a clumsy mistake like that is minor compared to the more serious errors presented as fact, the meaningless quotations taken out of context, and the artless acceptance of the Islamic government's most hilarious propaganda statements as good coin. It is amazing that an author as crassly ignorant as this dares talk of the "idiot left."
+
+Let me start by clarifying that as far as I am concerned Iran's Islamic regime is a reactionary state, a misogynistic and brutal dictatorship that has killed thousands of communists and socialists. It wages war on its own religious and national minorities and is currently waging war against its own working class. In this it is no different from any of the various alternatives the U.S. and its allies have in mind as successors. The Iranian government should be overthrown by the Iranian working class. Any other form of regime change, including those pursued by the U.S. and Israel through air raids, crippling sanctions, bombs, and cyber-warfare, would strengthen the positions of Islamists inside and outside the country. No amount of irresponsible falsification to justify sanctions or future plans to bomb Iran will change this.
+
+Grigat is apparently a member of "Drop" the Bomb, a campaign that "demands economic and political sanctions against the Iranian Islamist regime," since the regime "calls for the genocide of an entire [Jewish] people" and aims to "destabilize the region."[^1] First of all, one should question the very basis of the existence of such a group. I thought it was only the ignorant readers of tabloid newspapers who took such falsification seriously until I read "To Know the Worst." No one in the Israeli intelligence service, let alone the U.S. or EU, *actually* believes that Iran has any military nuclear capability. The current threat of war or sanctions has little to do with this. True, a few weeks before the U.S. presidential elections, pro-Israeli lobbies were busy exaggerating the threat of Iran's nuclear program. This might have had something to do with Netanyahu's support for Mitt Romney. However, there are more significant factors pushing the U.S. toward conflict with Iran. First and foremost are the needs of a superpower in decline -- damaged by two unsuccessful wars in Iraq and Afghanistan -- to assert its authority against all those who have dared to oppose aspects of its foreign policy. This is true even of countries that have followed the dictates of the International Monetary Fund (IMF) and the World Bank, countries such as the Islamic Republic of Iran. The 1979 revolution in Iran deprived the U.S. of a strategic ally in the region and, although the new regime's occupation of the U.S. embassy had nothing to do with anti-imperialism, it did show to the world and America that Tehran was going to be a nuisance --30 years of U.S. sanctions are proof of this.
+
+Second, the U.S. wars in Afghanistan and Iraq have resulted in the coming to power of a Shia government in Baghdad that takes orders from Iran's religious regime and a government in Kabul that is also close to Tehran. This has dramatically changed the balance of forces between Shias and Sunnis in the region. Saudi Arabia and the Gulf states have complained to the U.S. that, as a consequence of the war with Iraq, Shia influence now covers a vast section of the region from Iranian Baluchistan in the east to the Levant in Lebanon in the west.
+
+Next, the Arab Spring has changed the map of the region, and Washington can no longer rely on the likes of Mubarak and Ben Ali. Shias in Saudi Arabia and Bahrain are rising against local dictators, while in Iran the Sunni Arab population is accused of being part of a plot by Saudi Arabia to divide the country. In many ways the civil war in Syria could be seen as a proxy conflict between Iran and Saudi Arabia and so, in addition to Israel, the Saudis and the other Gulf states have joined the chorus calling for the U.S. to bomb Iran. So here are the stark, insistent facts. Israel and the U.S. have nuclear weapons. These countries threaten to bomb Iran, and we are to take seriously a campaign demanding that Iran, a tin pot dictatorship, drop its own (still to be created) ambitions to make a nuclear bomb.
+
+The article by Grigat also makes some grand statements about anti-Semitism among Iran's Shia clergy, based on the Iranian ruler's statements against Israel. First of all, anti-Zionism has nothing to do with anti-Semitism. And even a half-hearted student of Iran's foreign policy should realize how absurd it is to equate a third world country's over-blown foreign policy slogans with German Nazism or Spanish and Italian fascism.
+
+It suits Israel and some in the U.S. to portray Ahmadinejad as another new Hitler. It is true that Ahmadinejad's Holocaust-denial statements and his recent pronouncements on Persian superiority are racist. However, unlike the members of the Pahlavi dynasty, who were supported by the U.S. and Israel, the Ahmadinejad regime does not go on about Iranian racial superiority, and they have no history of supporting Hitler, unlike the Shah's father. Ahmadinejad's racism is anti-Arab, not anti-Jewish. Mahmoud Ahmadinejad is of Jewish descent, and likening him to Hitler is ridiculous. But of course, all this nonsense serves a political purpose. That is, to help forge a broad alliance of "democratic powers" in a war against the new devil incarnate. The truth is, Ahmadinejad is very much yesterday's man, a lame duck president.
+
+Today, more than ever since 1979, the dominant feature of the Islamic Republic of Iran's foreign policy remains a fervent Persian nationalist Shia expansionism, not very dissimilar to the foreign policy ambitions of the Shah. Ironically both the U.S. and Israel found those policies extremely useful in the 1960s and 1970s as they made sure Persian Iran was the most vociferous anti-Arab regime of the region. Analysts such as Olivier Roy, author of "*Sous le turban la couronne"* ("The Crown under the Turban"),[^2] exposed this aspect of the Iranian regime's foreign policy long before the U.S.'s ruinous 21st century wars in Iraq and Afghanistan made Iran a regional power. Roy's analysis is as valid today as it was when the book was published in the early 1990s.
+
+We should not be surprised that the Iranian regime is hated by its Arab neighbors¾even among the corrupt Shia dictators of Iraq and the Karzai government, recipients of suitcases of money sent from Tehran. However, all of this compounds Iran's isolation in the region and ensures it is not a force capable of "annihilating" any state, let alone Israel, the most powerful in the region.
+
+Instead of listening to Iran's rhetoric one should look at the realities of 30 years of Iran-Israel relations: Iran's clandestine relations with Israel started soon after the Islamic Republic was founded as both countries recognized the value of cooperation in confronting the common strategic enemy -- the Arab countries of the region.
+
+## Iran-Israel relations 1979 to 2012
+
+### The Khomeini era
+
+In November 1979, a group of Islamist students took over the U.S. embassy compound in Tehran allegedly protesting the fact that the erstwhile Shah was receiving medical treatment in America. Contrary to what sections of the Iranian left and most of the international left claimed, this takeover and the subsequent hostage crises in Lebanon had little to do with anti imperialism. As far as Iran's new rulers were concerned, taking Western hostages was part of a plan to divert attention from rising workers' protests, and to consolidate the power of the new religious state and divert attention from its growing repressiveness. The hostages were subsequently pawns in political games with the U.S. and Israel. Hezbollah's western hostages, taken in Beirut, were released as part of an elaborate deal: the Iran Contra affair where hostages were exchanged for Israeli weapons, to help Iran fight its "anti-Western" war against Iraq. However, Iran paid for these weapons by depositing funds into Swiss accounts belonging to the Nicaraguan contras as well as shipping oil to Israel.[^3]
+
+According to the Jaffe Institute for Strategic Studies at Tel Aviv University, Israel's arms sales to Iran during this period totaled US$ 500 million,[^4] and Time magazine reported that throughout 1981 and 1982, "the Israelis reportedly set up Swiss bank accounts to handle the financial end of the deals."[^5] In addition to Israeli arms, according to the report of the U.S. Congressional Committees Investigating the Iran-Contra Affair of November 1987, "the sale of U.S. arms to Iran through Israel began in the summer of 1985, after receiving the approval of President Reagan."[^6]
+
+Senior Iranian clerics and state officials were directly involved in the Iran Contra affair; Ayatollah Khomeini is believed to have given his personal approval while Ayatollah Rafsanjani and his immediate family were involved in intricate negotiations with the Reagan administration's representatives Oliver North and Robert Macfarlane.
+
+### The Khatami presidency
+
+Mohammad Khatami, Iran's reformist president, continued the antagonistic rhetoric against Israel calling it an "illegal state," however he did try to achieve rapprochement with both the U.S. and Israel during his second term as president, and it is widely rumored that he agreed to formal recognition of the state Israel in exchange for better relations with America. However, his proposals were rejected by the Bush administration.
+
+In September 2005, Khatami and Israeli President Katsav attended the funerals of Pope John Paul II. Both men come from the city of Yazd in Iran and news agencies quoted Katsav (who speaks Farsi fluently) saying he shook hands and chatted briefly with Khatami. Of course, in an election year, the Iranian president denied the story, however rumors of the handshake persist.[^7]
+
+### Ahmadinejad the Holocaust denier
+
+One of Ahmadinejad's most controversial and closest allies is Esfandiar Rahim-Mashaei, the father of his daughter-in-law and, until December 1, 2012, his Chief of Staff. Mashaei is well known for expressing controversial Persian nationalist sentiments and also, during his time as the Minister for Culture, when speaking at a tourism convention in Tehran in July 2008, for saying, "Iran is [a] friend of the United States and Israel, and this is an honor. We view the American nation as one with the greatest nations of the world." On another occasion he is quoted as saying: "Iranians are friends of all people -- even Israelis."[^8] It is hard to believe that the Iranian president, who has maintained his support for Mashaei throughout the last few years, disagrees with him on such issues.
+
+### Iran-Israel commerce
+
+Every now and then the press and the media in Iran discover boxes of Jaffa oranges for sale.[^9] Given the level of Israeli propaganda about the possibility of a military strike and calls for harsher sanctions, the appearance of even a few boxes of Jaffa oranges in the middle of Tehran is newsworthy as it reveals aspects of covert Iran-Israel commercial deals. In 1998, Israeli businessman Nahum Manbar was charged with doing business with Iran and collaboration with the enemy. During his trial it became clear that Manbar did not act alone and "hundreds of Israeli companies" had illegal business dealings with Iran.[^10] In May 2011, the U.S. state department penalized the Israeli company Ofer Brothers Group for breaking U.S. sanctions after it became clear that the company had not only sold ships to Iran but that it had allowed Ofer ships to be docked at Iranian ports.[^11] According to Eran Siv, Chairman of the Israeli Renovator's Association, Iranian marble has become very popular in Israel and many Iranian companies involved in the export of marble used Turkish middlemen to claim the stones were "Turkish." According to the Israeli press, until the latest more stringent sanctions against Tehran went into effect, illegal Iranian-Israeli commerce totaled millions of dollars of goods sold to Iran, including fertilizer, irrigation pipes, hormones for food, seeds, and citrus fruit; Iran, for its part, sold cashews and pistachios in addition to marble.
+
+### Iran's economy
+
+The claim that we are dealing with National Socialism in Iran is also based on the idea that the country's economy is state capitalist. Nothing could be further from the truth. Again, unless one is blinded by neo-conservative propaganda, can anyone seriously believe that the country named by the IMF as the model economy for pursuing neo-liberal privatization policies is akin to "Nazi Germany"?
+
+Of course, many Marxists have argued that even in Nazi Germany fascism was a trick in the hands of the capitalist ruling class, "a function of bourgeois society," or a "violent action by the section of the bourgeoisie." However, irrespective of the arguments about Nazi Germany, Iran's economy -- particularly since the end of the Iran-Iraq War in 1988 -- bears absolutely no resemblance to Nazi Germany's economy. In the age of the Internet, and with the data available from major financial institutions, it is perverse that anyone should make such a claim, unless they were blinded by rabid Israeli propaganda. Even the U.S. administration does not make such an absurd charge.
+
+### Reconstruction
+
+The end of the Iran-Iraq war was the end of the religious phase of the regime. Rafsanjani's coming to power was the period of "reconstruction." Iran was a new market and everyone wanted to invest. The French wanted to build car plants in the country, while the Italians proposed rebuilding Iran's petrochemical industries. This was a period of relative boom lasting until 2005. During the Rafsanjani-Khatami presidencies, Iran had a growth rate of around five percent.
+
+Foreign companies, of course, had to negotiate with senior clerics, both in the government and as members of the new ruling class. Suddenly clerics, whose economic roots had been in the bazaar, were involved in international relations with major industrial capital, with the IMF and the World Bank. The Shia clergy was finding its place in global capitalism.
+
+At the same time, those in power realized the benefits of asking *émigré* capitalists, as well as engineers and technical experts, to return -- or at least to invest some of their money in the country. A new class of capitalists was also emerging internally in the shape of the *aghazadeh ha*, that is, sons (and occasionally daughters) of senior clerics. This was also a period of massive urbanization. The failure of many land reforms, during both the Shah's rule and under the Islamic regime, meant that by 2005, 67 percent of Iran's population was living in urban areas. This is a very high figure, demonstrating the great speed with which the rural population is falling. State spending during this time -- much of it a product of oil income -- had a certain trickle-down effect. The number of workers in manufacturing and services increased dramatically. There was a lot of money around, and some of Iran's senior clerics started investing abroad. The Rafsanjani family reportedly bought property in Belgium, while other senior clerics invested in the Gulf states.
+
+Even in those years the regime was well aware of the threat posed by the working class. The state paid a lot of attention to two significant sections: oil workers and those in car manufacturing. Work in both industries was "outsourced," i.e., given to contractors. If you talk to oil workers today, they will tell you everyone in the refinery works for a different company and those in the repairs section have different working conditions from those in production. In car manufacturing, Iran Khodro workers will tell you that in the same production unit, you could have workers associated with up to 10 contracting companies, and here, too, different workers have different pay and conditions of employment.
+
+This was, and remains, a deliberate policy pursued for the single purpose of breaking solidarity amongst workers. Later, the same policy was driven by the IMF and the World Bank, and in 2010 President Mahmoud Ahmadinejad's Minister of Labor announced that by the end of the year, 100 percent of Iran's workers would be employed on contracts. Although the Iranian government often fails to keep its promises, they rarely renege when it comes to privatization measures and other IMF demands. After all, Iran was the model developing economy of 2009 according to the IMF, and as late as April 2012 IMF officials were telling Egypt and other Middle East states that they should look to the Islamic Republic as a model for how to cut subsidies.[^12]
+
+Iran's supreme leader, Ayatollah Khamenei, has consistently spoken of and supported privatization efforts. In 2007 he slammed the government for "sluggish privatization," urging the government to "speed up the process of privatization."[^13] The same year, Khamenei changed article 44 of the constitution, removing the guarantee of public ownership for key industries. None of these features are characteristics of state capitalism. It is true that individual leaders of the revolutionary guards are the beneficiaries of some of this relentless privatization, however anyone with any information about Iran's economy would be aware that the old pre-Shah aristocracy, as well as some of the *nouveau riche* of the Pahlavi era, never lost their fortunes and were therefore in an excellent position to benefit from the waves of privatizations embarked upon by the religious state.
+
+## Conclusion
+
+So what does the appearance of "To Know the Worst" in *The Platypus Review* tell us? First, the author clearly supports war and sanctions, and he has imbibed a heavy dose of religious/nationalist Zionist propaganda. *The Platypus Review*'s editorial statement assures us that such articles are intended to host a conversation that would otherwise not occur. About this I would make a couple of observations: A left-wing journal does not publish openly racist articles to spark debate about racism. The same logic applies to wars. A left-wing journal does not publish a pro-war, pro-imperialist, and pro-Zionist article in order to encourage debate on the Left. If it was true that supporting one fanatic, religious, Middle East state (Israel) against another fanatic religious state (Iran) actually promoted "intelligent" discussion, the UK tabloids would "host the conversation." To court controversy for the sake of it and evince a neutral or even contemptuous attitude to the Left and its traditions is not particularly original or useful -- it does, however, have a political logic. The grisly fate of the erstwhile ultra-left controversialists of the Revolutionary Communist Party and *Living Marxism* should give the readers of *The Platypus Review* some pause. | **P**
+
+[^1]: http://de.stopthebomb.net/en.html
+
+[^2]: Oliver Roy, "*Sous le turban la couronne," in Thermidor en Iran, ed. Fariba Adelkah, Jean François Bayart, and Olivier Roy (Brussels: Complexe, 1993).*
+
+[^3]: <http://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/index.php%22%3Ehttp://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/index.php>
+
+[^4]: Johnathan Marshall, Peter Dale Scott, and Jane Hunter, *The Iran Contra Connection: Secret Teams and Covert Operations in the Reagan Era* (Boston, South End Press, 1987), 169.
+
+[^5]: Quoted in "Iran-Israel Relations" http://en.wikipedia.org/wiki/Iran -- Israel_relations
+
+[^6]: <http://openlibrary.org/books/OL2495493M/report_of_the_congressional_committees_investigating_the_Iran-Contra_Affair>
+
+[^7]: <http://news.bbc.co.uk/1/hi/world/middle_east/4425487.stm>
+
+[^8]: <http://www.haaretz.com/news/iran-vp-iranians-are-friends-of-all-people-even-israelis-1.251479>
+
+[^9]: <http://news.bbc.co.uk/1/hi/world/middle_east/8017823.stm>
+
+[^10]: See Ronen Bergman, *The Secret War with Iran: The 30 Year Clandestine Struggle Against the World's Most Dangerous Terrorist Power* (New York: Penguin Press, 2006).
+
+[^11]: [http://www.ft.com/cms/s/0/4474681c-8a10-11e0-beff-00144feab49a.html#axzz2E1P0y3W6](http://www.ft.com/cms/s/0/4474681c-8a10-11e0-beff-00144feab49a.html)
+
+[^12]: Managing Director of the IMF, Christine Lagarde, praised Iranian subsidy-cuts plan and described it as a brave move that should be followed by other countries. See <http://tehrantimes.com/economy-and-business/97175-imf-urges-world-states-to-follow-iran-in-implementing-subsidy-reforms>
+
+[^13]: <http://www.aaj.tv/2007/02/khamenei-slams-tehran-for-sluggish-privatisation/>

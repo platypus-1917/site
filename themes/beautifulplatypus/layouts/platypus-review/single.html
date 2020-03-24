@@ -1,0 +1,98 @@
+{{ define "main" }} <!-- Custom page style for PR articles -->
+<div class="container" role="main">
+  <div>
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<div class="post-author">
+    {{ if and (.Params.interviewees) (.Params.authors) }} <!-- for interviews -->
+    {{ range $index, $interviewee := .Params.interviewees }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "interviewees/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}<em><h3>Interviewed by
+    {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}
+<a href="{{ "authors/" | relLangURL }}{{ . | urlize }}">{{ .| title -}}</a>{{ end }}
+{{- if .Params.translator }}; translated by{{ range $index, $translator := .Params.translator }}{{ if gt $index 0 }}, {{ end }}
+<a href="{{ "translator/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}</h3></em>
+        {{ end }}
+
+    {{ else if .Params.authors }}
+      {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "authors/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}
+
+          {{ if .Params.translator }}
+            {{ range $index, $translator := .Params.translator }}{{ if gt $index 0 }}, {{ end }}<h3><em>Translated by <a href="{{ "translator/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}</h3></em>
+            {{ end }}
+      {{ end }}
+  </div>
+
+        {{ if .Params.issue }}
+          <p style="text-align:right;font-style:oblique;"><a href="{{ "issue/" | relLangURL }}{{ .Params.issue | urlize }}">{{ i18n "prName" }} #{{ .Params.issue }}</a> | {{ if .Params.issuedate }} {{.Params.issuedate | markdownify }} {{else}} {{ .Date.Format "January 2006" }} {{ end }}</p>
+          {{ end }}
+
+          <!--
+          {{ if .Params.issuepdf }}
+          <p class="articleversions"><a href="{{ .Params.issuepdf | urlize }}">[Issue PDF]</a></p>
+
+        {{ else if .Params.issue }}
+          <p><a href="{{ "file/platypus-review-issue/platypusreview-issue" | relLangURL }}{{ .Params.issue }}{{ ".pdf" }}">[Issue PDF]</a></p>
+        {{ end }}-->
+
+        {{ if .IsTranslated -}}
+          {{- $sortedTranslations := sort .Translations "Site.Language.Weight" -}}
+          {{- $links := apply $sortedTranslations "partial" "translation_link.html" "." -}}
+          {{- $cleanLinks := apply $links "chomp" "." -}}
+          {{- $linksOutput := delimit $cleanLinks (i18n "translationsSeparator") -}}
+          [<em>{{ i18n "translationsLabel" }}{{ $linksOutput }}</em>]
+        {{- end }}
+
+          {{ if .Params.articlepdf }} <!-- Link to article PDF -->
+            <p class="articleversions"><a href="{{ .Params.articlepdf | urlize }}">[Article PDF]</a></p>
+            {{ end }}
+
+          {{ if .Params.audiorecording }} <!-- Link to audio recording -->
+            <p class="articleversions">[<a href="{{ .Params.audiorecording  | urlize }}">Audio Recording</a>]</p>
+            {{ end }}
+
+            {{ if .Params.videorecording }} <!-- Link to video recording -->
+              <p class="articleversions">[<a href="{{ .Params.videorecording | urlize }}">Video Recording</a>]</p>
+              {{ end }}
+
+            {{ if .Params.note }} <!-- Display article notes in text but not in preview-->
+              <p>{{ .Params.note | markdownify }}</p>
+              {{ end }}
+
+      <article role="main" class="blog-post">
+        {{ .Content }}
+      </article>
+
+      {{ if .Params.tags }}
+    {{ partial "tags.html" . }}
+        {{ end }}
+
+{{ if ne .Params.share false}}
+{{ partial "share.html" . }}
+{{end}}
+
+     <ul class="pager blog-pager">
+        {{ if .PrevInSection }}
+          <li class="previous">
+            <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
+
+        {{ end }}
+        {{ if .NextInSection }}
+          <li class="next">
+            <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+
+        {{ end }}
+      </ul>
+
+    {{ partial "related.html" . }}
+
+      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
+        {{ if .Site.DisqusShortname }}
+          <div class="disqus-comments">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,82 @@
+backend:
+  name: git-gateway
+  branch: master # defaults to master
+
+media_folder: "static/img" # images
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+
+collections:
+  - name: "platypus-review"
+    label: "PR Article"
+    folder: "content/platypus-review"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Author(s)", name: "authors", widget: "list"} # need relational widget
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Issue", name: "issue", widget: "string"}
+      - {label: "Issue Date", name: "issuedate", required: false, widget: "string"}
+      - {label: "PR Article Type", name: "article-type", widget: "select", options: ["Article", "Interview", "Translation", "Transcript", "Review"]}
+      - {label: "Current", name: "current", widget: "boolean", default: false}
+      - {label: "Thumbnail", name: "thumbnail", required: false, widget: "image"}
+      - {label: "Weight", name: "weight", widget: "number", default: 1}
+      - {label: "Categories", name: "categories", required: false, widget: "string"}
+      - {label: "Tags", name: "tags", required: false, widget: "string"}
+      - {label: "Keywords", name: "keywords", required: false, widget: "string"}
+      - {label: "Status", name: "status", widget: "select", options: ["Draft", "Published"]}
+      - {label: "Comments", name: "comments", required: false, widget: "boolean", default: false}
+      - {label: "Audiorecording", name: "audiorecording", required: false, widget: "string"}
+      - {label: "Videorecording", name: "videorecording", required: false, widget: "string"}
+      - {label: "Excerpt", name: "excerpt", required: false, widget: "text"}
+      - {label: "Article", name: "body", widget: "markdown"}
+  - name: "author-details" ## author pages
+    label: "Author Details"
+    folder: "content/authors"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string", required: true}
+      - {label: "Biography", name: "biography", widget: "markdown", required: false}
+  - name: "pedagogy" # PR pages
+    label: "Pedagogy"
+    folder: "content/pedagogy"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Show the date", name: "showthedate", default: false}
+      - {label: "Draft", name: "draft", default: true}
+      - {label: "Show the date", name: "showthedate", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "media" ## media pages
+    label: "Media Post"
+    folder: "content/media"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Speaker(s)", name: "speakers", widget: "list"} # need relational widget
+      - {label: "Media Type", name: "media-type", widget: "select", options:["video", "audio"]}
+      - {label: "Series", name: "series", widget: "list", required: false}
+      - {label: "Media File", name: "media", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "chapter" ## media pages
+    label: "Chapter Page"
+    folder: "content/chapters"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+### Need to set this all up

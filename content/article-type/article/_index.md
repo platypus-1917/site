@@ -1,0 +1,6 @@
+---
+title: Article
+aliases:
+- articles
+
+---

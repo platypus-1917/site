@@ -1,0 +1,73 @@
+<h3>See Also:</h3>
+<div class="related">
+	<div class="container-fluid">
+{{ $related := .Site.RegularPages.Related . | first 6  }}
+{{ with $related }}
+<ul class="d-flex flex-wrap">
+	{{ range . }}
+	<li class="list-group-item col-xs-6 col-md-6">
+		<div class="post-image">
+		{{ if .Params.thumbnail }}
+	<a href="{{ .RelPermalink }}">
+		<img src="{{ .Params.thumbnail }}">
+	</a>  <!-- Find some way to automatically use the first image as the thumbnail if possible? -->
+	{{ else }}
+		<a href="{{ .RelPermalink }}">
+			<img src="/img/platypus-logo-small.png">
+		</a> <!--puts in generic thumbnail image -->
+	{{ end }}
+</div>
+<!-- solution to problem of short, cryptic tiles in related posts-->
+	<h4><a href="{{ .RelPermalink }}">
+{{if and (lt (len .Title) 12) ( .Params.subtitle) }}
+{{if (lt (len .Params.subtitle) 35) }}
+{{ .Title| markdownify }}: {{ .Params.subtitle | markdownify }}
+ {{end}}
+ {{else}}
+{{ .Title| markdownify }}
+ {{end}}
+</a></h4>
+</li>
+	{{ end }}
+</ul>
+{{ end }}
+</div>
+</div>
+
+
+
+
+{{ $related := .Site.RegularPages.Related . | first 6 }}
+{{ with $related }}
+<h3>See Also</h3>
+<ul class="d-flex flex-wrap">
+	{{ range . }}
+		<li class="list-group-item col-xs-6 col-md-6">
+		<div class="post-image-related">
+			<figure>
+	{{ if .Params.thumbnail }}
+<a href="{{ .RelPermalink }}">
+	<img src="{{ .Params.thumbnail }}">
+</a>  <!-- Find some way to automatically use the first image as the thumbnail if possible? -->
+{{ else }}
+	<a href="{{ .RelPermalink }}">
+		<img src="/img/platypus-logo-small.png">
+	</a> <!--puts in generic thumbnail image -->
+{{ end }}
+<figcaption class="caption-related">
+<a href="{{ .RelPermalink }}">
+	{{if and (lt (len .Title) 20) ( .Params.subtitle) }}
+{{if (lt (len .Params.subtitle) 35) }}
+{{ .Title| markdownify }}: {{ .Params.subtitle | markdownify }}
+ {{end}}
+ {{else}}
+{{ .Title| markdownify }}
+ {{end}}
+</a>
+</figcaption>
+</figure>
+</div>
+</li>
+	{{ end }}
+</ul>
+{{ end }}

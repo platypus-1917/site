@@ -1,0 +1,105 @@
+[[social_icons]]
+icon = "fa-envelope"
+id = "email"
+title = "Email me"
+url = "mailto:%s"
+[[social_icons]]
+icon = "fa-facebook"
+id = "facebook"
+title = "Facebook"
+url = "https://www.facebook.com/%s"
+[[social_icons]]
+icon = "fa-google-plus"
+id = "googleplus"
+title = "Google+"
+url = "https://plus.google.com/%s"
+[[social_icons]]
+icon = "fa-github"
+id = "github"
+title = "GitHub"
+url = "https://github.com/%s"
+[[social_icons]]
+icon = "fa-gitlab"
+id = "gitlab"
+title = "GitLab"
+url = "https://gitlab.com/%s"
+[[social_icons]]
+icon = "fa-twitter"
+id = "twitter"
+title = "Twitter"
+url = "https://twitter.com/%s"
+[[social_icons]]
+icon = "fa-reddit-alien"
+id = "reddit"
+title = "Reddit"
+url = "https://reddit.com/u/%s"
+[[social_icons]]
+icon = "fa-linkedin"
+id = "linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com/in/%s"
+[[social_icons]]
+icon = "fa-xing"
+id = "xing"
+title = "Xing"
+url = "https://www.xing.com/profile/%s"
+[[social_icons]]
+icon = "fa-stack-overflow"
+id = "stackoverflow"
+title = "StackOverflow"
+url = "https://stackoverflow.com/%s"
+[[social_icons]]
+icon = "fa-snapchat-ghost"
+id = "snapchat"
+title = "Snapchat"
+url = "https://www.snapchat.com/add/%s"
+[[social_icons]]
+icon = "fa-instagram"
+id = "instagram"
+title = "Instagram"
+url = "https://www.instagram.com/%s"
+[[social_icons]]
+icon = "fa-youtube"
+id = "youtube"
+title = "Youtube"
+url = "https://www.youtube.com/%s"
+[[social_icons]]
+icon = "fa-soundcloud"
+id = "soundcloud"
+title = "SoundCloud"
+url = "https://soundcloud.com/%s"
+[[social_icons]]
+icon = "fa-spotify"
+id = "spotify"
+title = "Spotify"
+url = "https://open.spotify.com/user/%s"
+[[social_icons]]
+icon = "fa-bandcamp"
+id = "bandcamp"
+title = "Bandcamp"
+url = "https://%s.bandcamp.com/"
+[[social_icons]]
+icon = "fa-gamepad"
+id = "itchio"
+title = "Itch.io"
+url = "https://itch.io/profile/%s"
+[[social_icons]]
+icon = "fa-key"
+id = "keybase"
+title = "Keybase"
+url = "https://keybase.io/%s"
+[[social_icons]]
+icon = "fa-vk"
+id = "vk"
+title = "VK"
+url = "https://vk.com/%s"
+[[social_icons]]
+icon = "fa-paypal"
+id = "paypal"
+title = "PayPal"
+url = "https://paypal.me/%s"
+[[social_icons]]
+icon = "fa-telegram"
+id = "telegram"
+title = "Telegram"
+url = "https://telegram.me/%s"

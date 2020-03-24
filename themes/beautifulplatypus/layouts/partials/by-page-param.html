@@ -1,0 +1,15 @@
+
+
+
+<!-- Groups content according to the "param_key" field in front matter -->
+{{ range .Data.Pages.GroupByParam "param_key" }}
+<h3>{{ .Key }}</h3>
+<ul>
+    {{ range .Pages }}
+    <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

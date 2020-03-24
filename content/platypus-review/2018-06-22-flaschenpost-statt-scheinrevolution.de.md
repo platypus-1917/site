@@ -1,0 +1,141 @@
+---
+aliases: ["/2018/06/22/flaschenpost-statt-scheinrevolution-ein-interview-mit-detlev-claussen-uber-adorno-lenin-und-die-studentenbewegung"]
+title: "Flaschenpost statt Scheinrevolution"
+subtitle: "Ein Interview mit Detlev Claussen über Adorno, Lenin und die Studentenbewegung"
+date: 2018-06-22
+issue: "8"
+current: false
+interviewee: ["Detlev Claussen"]
+authors: ["Jan Schroeder"]
+thumbnail: "/img/Bild-3.jpg"
+---
+
+*Detlev Claussen ist emeritierter Professor für Gesellschaftstheorie, Kultur- und Wissenschaftssoziologie an der Gottfried Wilhelm Leibniz Universität in Hannover. Entgegen einer Vereinnahmung durch den akademischen Betrieb und der Anklage eines kulturpessimistischen Rückzuges in einen vermeintlichen Elfenbeinturm verteidigt Claussen die politische Relevanz der Kritischen Theorie und geht in seinen Schriften auch dem Einfluss Lenins auf Adornos Denken nach. Jan Schroeder ist Mitglied bei Platypus. Das nachfolgende Interview fand am 21. März 2017 statt.*
+
+***Jan Schroeder:** *Herr Claussen, Sie haben ab 1966 in Frankfurt bei Adorno studiert und waren gleichzeitig Mitglied im Sozialistischen Deutschen Studentenbund (SDS). Wie haben Sie Adorno damals wahrgenommen? Hatte er einen Einfluss auf Ihren politischen Aktivismus?*
+
+**Detlev Claussen:** Adorno war der Grund, warum ich überhaupt zum Studieren nach Frankfurt gekommen bin. Heute muss man erwähnen: Für politisch bewusste Mitglieder des SDS war es ganz selbstverständlich, dass man am Institut für Sozialforschung studiert. Das war kein Gegensatz, sondern hat zusammengehört.
+
+Dass die Kritische Theorie politische Implikationen hat, war mir schon damals vollkommen klar. Aber mein Engagement im SDS hatte andere Ursachen. Ich bin bereits 1966 in SDS-Kreise hineingeraten. Davor hatte ich nur Gerüchte über eine politische Organisation namens SDS gehört. Hauptsächlich bin ich wegen der Kampagne und Ausstellung „Ungesühnte Nazijustiz“ zum SDS gegangen. Im Grunde war der SDS die einzige Organisation, die sich damit beschäftigt hat. Das andere Thema war natürlich der Vietnamkrieg. Das antikoloniale Engagement des SDS sprach mich an.
+
+{{% figure src="/img/Bild-3.jpg" caption="Gerade die Beteiligung der USA am Vietnamkrieg wurde heftig von der Studentenbewegung kritisiert. Ihr galt die bedingungslose Solidarität mit Nordvietnam geradezu als Tugend und Pflicht. Adorno hingegen problematisierte Solidarität, welche die grausamen Vorgehensweisen des Vietcongs kritiklos billigte." %}}
+
+*Es gab einige Konflikte zwischen Adorno und der Studentenbewegung. Wie haben Sie Adornos Kritik aufgenommen und wie sind Sie mit ihr umgegangen?*
+
+Damals haben wir immer versucht, Adorno auf unsere Seite zu ziehen. Warum Adorno sich uns in den Weg gestellt hat, haben wir eigentlich gar nicht richtig überblickt. Nachträglich muss ich sagen: Die Institutsbesetzung war die blödeste Aktion, die wir je gemacht haben. Sie hat Adorno in eine Rolle getrieben, aus der er überhaupt nicht mehr herauskommen konnte. Wir haben nicht gesehen, wie sehr Adorno unter dem Druck der Universitätsverwaltung und der hessischen Landesregierung stand. Eigentlich haben wir die Polizeiräumung des Instituts selbst provoziert.
+
+*Besonders späte Texte von Adorno wie „Marginalien zu Theorie und Praxis“ oder „Resignation“ befassen sich kritisch mit der Neuen Linken und der Studentenbewegung. Welche Rolle hat Adornos Intervention gespielt?*
+
+In diesen beiden Texten geht es ja auch um Konflikte innerhalb der Studentenbewegung. Es gibt dort eine Passage, die eine Aktion in einer Wohnung beschreibt: Ein Student wurde angegriffen, weil er sich mit Theorie beschäftigte.
+
+Die Aktion wurde von einer ausgesprochen theoriefeindlichen Gruppe innerhalb der Studentenbewegung ausgeführt. Auch ich wohnte in dieser Wohnung – das war kein Zufall! Es war die sogenannte Lederjackenfraktion des SDS, die in unsere Wohnung gekommen ist und einem meiner besten Freunde das Zimmer verwüstet hat. Die Kritik am Aktionismus war schon damals völlig berechtigt und wir haben das auch so gesehen.
+
+Adorno wusste sehr gut darüber Bescheid, was sich in der Protestbewegung abgespielt hat. Die von Ihnen genannten Texte spiegeln ja auch nicht das ganze Werk von Adorno wider. Das sehen Sie z.B. an den Entwürfen zur Wiederauflage der „Dialektik der Aufklärung“. Dort nimmt er auf die Studentenbewegung Bezug und stellt die Behauptung auf, dass sie vielleicht doch den Weg in die verwaltete Welt aufgehalten hat. Adorno nahm eine doppelte Perspektive ein: Zum einen glaubte er, dass die Protestbewegung durchaus ihre berechtigten Gründe hatte. Andererseits war er aber auch der Meinung, dass der Aktivismus innerhalb der Studentenbewegung fatale Züge angenommen hatte.
+
+{{% figure src="/img/Bild-4.jpg" caption="Besetztes Rektorat im Jügelhaus. Auf dem Boden schlafen Studenten und im Hintergrund ist SDS-Vorstandsmitglied Hans-Jürgen Krahl zu sehen. Quelle: Universitätsarchiv Frankfurt am Main (UAF) Abt.850 Nr. 298" %}}
+
+*Adorno hat davor gewarnt, dass die Studentenbewegung selbst zu einem Vehikel der verwalteten Welt werden könnte. Wie bewerten Sie das politische Erbe von 1968 im Hinblick auf Adornos Warnung?*
+
+Anfang der 70er Jahre spielten andere Entwicklungen eine Rolle, die Adorno nicht mehr erlebt, aber in gewisser Weise antizipiert hat. Das Auftauchen etlicher marxistisch-leninistischer Splitterorganisationen war nur aufgrund der verbreiteten Theoriefeindlichkeit in der Protestbewegung möglich. Und ich möchte mal eine gewagte These aufstellen: Wer ernsthaft bei Adorno Kritische Theorie gelernt hat, war strukturell unfähig, Mitglied einer marxistisch-leninistischen Kaderpartei zu sein. Das widersprach sich vollkommen.
+
+Adorno hat immer wieder die Frage formuliert: Was ist eine Revolution ohne revolutionäres Proletariat? Kann man da überhaupt von Revolution sprechen? Oder führt das eben nicht genau in die Dilemmata, in denen sich die Protestbewegung dann befunden hat und die ihren Zerfall notwendigerweise nach sich gezogen haben? Es war wichtig, einen Weg zu finden, der weder in den Terrorismus noch zur Mitarbeit in marxistisch-leninistischen Kaderparteien, sprich K-Gruppen, führte. Das wurde einem durch die Auseinandersetzung mit Adorno erleichtert. Man musste versuchen, an den konkreten sozialen Konflikten direkt anzuknüpfen.
+
+*Nachdem Adorno gestorben war, sind Sie Anfang der 70er Jahre nach Hannover gegangen. Dort haben Sie mit einer Arbeit über die „List der Gewalt“ promoviert und waren im Sozialistischen Büro (SB) aktiv. Inwiefern ging dieses Engagement aus den problematischen Erfahrungen der Studentenbewegung in den 60er Jahren hervor?*
+
+Ausgehend von der Erfahrung der 60er Jahre würde ich sagen, dass es einer großen Anstrengung der Theorie bedarf, um überhaupt auf der Höhe der Zeit zu sein. Darin sehe ich auch meine Aktivität seit den 70er Jahren. Bis heute ist es eine zentrale Aufgabe, von der Theoriefeindlichkeit wegzukommen. Aber das bedeutet nicht, dass man zu den Theorien von vor 100 Jahren zurückgehen könnte, denn Theorie muss immer Kritik der Gegenwart sein. Das heißt auch: Sie muss mit den theoretisch angemessenen Mitteln geführt werden.
+
+*Wenn wir immer noch nicht die Theoriefeindlichkeit innerhalb der Linken überwunden haben, ist dann Ihr Buch „List der Gewalt“ noch aktuell?*
+
+Ich habe 1971 in Frankfurt mein Studium beendet, weil Oskar Negt mich als Assistent nach Hannover geholt hat. Meine Promotion entstand während des Höhepunktes der RAF-Aktivitäten. Sie behandelt revolutionäre Gewalt und ihre Theorien. Meine Vorstellung war es, einen konkreten Begriff sozialrevolutionärer Gewalt herauszuarbeiten. Er sollte sich vom allgemeinen Gewaltbegriff unterscheiden, demzufolge Gewalt nur aus der Gesinnung der Gewalttäter begründet wird und nicht aus der Praxis. An den Bewegungsformen der Gewalt habe ich versucht abzulesen, was für ein Typus von Gewalt das ist, denn man kann durchaus zwischen ihnen unterscheiden. Das politisch Entscheidende an dem Buch ist, dass es eine ganz scharfe Kritik der terroristischen Gewalt ist – nicht nur der RAF, sondern weltweit –, die Gewalt in ihrer Bedeutung fetischisiert hat. Insofern ist es auch eine Kritik der palästinensischen Praxis, die sich in der terroristischen Gewalt verloren hat und damit die Legitimität der palästinensischen Nationalbewegung in Frage gestellt hat. Es war aber auch der Versuch zu zeigen, dass anti-koloniale Gewalt nicht einfach Terrorismus ist und ihre Legitimation durch eine sozialrevolutionäre Bewegung erhält.
+
+*Viele Aktivisten hatten in den 70er Jahren den Eindruck, dass mit der politischen Rhetorik und den Ambitionen des vorherigen Jahrzehnts endlich ernst gemacht wird. Haben Sie das auch so wahrgenommen oder sehen Sie die 70er Jahre als einen Rückschritt gegenüber den 60er Jahren an?*
+
+Die 60er Jahre haben ein Dilemma hinterlassen, das ich immer wieder kritisiert habe: die Differenz zwischen revolutionärer Rhetorik und politischer Praxis. Viele Leute haben versucht, diese Differenz gewaltsam zu schließen. Das ist geradezu verheerend gewesen, was sich insbesondere in terroristischen Aktivitäten ausgedrückt hat. Ich würde schon sagen, dass sich die politische Rhetorik adäquat zur Realität auf die politischen Inhalte beziehen und diese ausdrücken sollte; selbstverständlich immer mit einem überschüssigen Moment und nicht nur einfach als ein realistisches Abbilden der Wirklichkeit. Es muss also auch das Potential, das in der Wirklichkeit enthalten ist, formuliert werden: Wo und wie ist die Gesellschaft veränderbar? [Allerdings sind in den 70er Jahren auch Veränderungen erreicht worden, die jetzt die Feindbilder der populistischen Rhetorik sind.
+
+*Welche Rolle haben dabei diejenigen gespielt, die Sie „kritische Intellektuelle“ nennen? Hat sich deren Rolle heute dadurch verändert, dass die Protestbewegung der 60er und 70er Jahre nicht mehr existiert?*
+
+Es ist sehr wichtig, dass kritische Intellektuelle die Gesellschaft analysieren – die Gesellschaft und ihre Tendenzen. Eine vorrangige Aufgabe ist die Weiterentwicklung und Neukonstituierung von Theorie, von kritischer Theorie. Ich würde sie inzwischen allerdings nicht mehr als revolutionäre, sondern als gesellschaftskritische Theorie bezeichnen.
+
+*Worin besteht der Unterschied?*
+
+Ich gehe davon aus, dass unter heutigen Bedingungen in der Welt Revolutionen weder möglich noch wünschenswert sind.
+
+*Hatte die Kritische Theorie Adornos noch eine engere Verbindung zu Marx und Lenin?*
+
+Dass es bei der Kritischen Theorie eine ganz enge Verbindung zum Marxismus gibt, war uns schon im SDS vollkommen klar. Aber man konnte den Schriften schon damals entnehmen, dass Lenin bzw. die Oktoberrevolution für Adorno ein historischer Moment war, der nicht mehr wiederkehrt. So fängt auch die „Negative Dialektik“ an. Das haben nur die verstanden, die auch gesehen haben, dass sich die Kritische Theorie  auf Marx und den frühen Lukács von „Geschichte und Klassenbewusstsein“ bezog. Wenn es diese Auseinandersetzung in der Kritischen Theorie nicht gegeben hätte, dann wüssten wir sehr wenig über die Beziehung von Adorno zu den Überlegungen einer leninistischen Kaderpartei.
+
+*In der berüchtigten „Diskussion über Theorie und Praxis“ – auch als „Küchengespräche“ bekannt – geht es explizit um diese Überlegungen. In dem Gespräch von 1956 spielen Horkheimer und Adorno mit dem Gedanken, ein „streng leninistisches Manifest“ zu verfassen. Sie gehen davon aus, dass eine sozialistische Partei notwendig sei. Allerdings halten die Autoren es für vergeblich, in ihrer geschichtlichen Situation dazu aufzurufen. Sie glauben, dass eine solche Partei im gegebenen Moment nicht mehr werden könnte als die SPD oder die britische Labour Party. War Adorno – Lukács folgend – also ein Leninist?*
+
+Ich denke, dass Adorno sehr früh klargeworden ist, dass die empirischen kommunistischen Parteien den Anspruch einer revolutionären Organisation nicht erfüllten. Das war auch zunächst das Ansprechende an Lukács’ „Geschichte und Klassenbewusstsein“. Dort wird ja die revolutionäre Organisation begründet, ohne dass es eine empirische revolutionäre Organisation gäbe – das ist bei Lukács eine idealistische Konstruktion. Aus dieser Lukács‘schen Kritik heraus ist sich Adorno eines Dilemmas bewusst geworden: der Notwendigkeit einer revolutionären Theorie einerseits und der Unmöglichkeit einer revolutionären Kaderorganisation andererseits, jedenfalls in der empirischen Realität. Eine Kaderorganisation kann man nicht aus dem Nichts erschaffen, das wäre schlechtester Idealismus. Aus diesem Widerspruch ist die Kritische Theorie entstanden.
+
+Man kann nicht einfach die Entwicklung zurückdrehen und an die angeblich guten alten Zeiten anknüpfen. Das macht das Erbe der Kritischen Theorie aus: Die Kritische Theorie ist als Reflexion auf die gescheiterte, nicht die erfolgreiche Revolution entstanden. Das ist in der Literatur über die Kritische Theorie sehr oft überhaupt nicht wahrgenommen worden. Irgendwann hätte mal der revolutionäre Optimismus aufgehört und dann hätte es die Kritische Theorie gegeben – das stimmt aber überhaupt nicht. Die Kritische Theorie fing bereits mit der Erfahrung an, dass die Oktoberrevolution in Russland völlig isoliert geblieben ist und es dafür irgendwelche Gründe gegeben haben muss. Einer der Gründe war, dass es eine vergleichbare revolutionäre Organisation in allen westlichen Ländern nicht gegeben hat.
+
+*Wäre eine Partei vom Typus der Bolschewiki in den anderen Ländern notwendig und wünschenswert gewesen?*
+
+Ohne die Partei war eine sozialrevolutionäre Veränderung offensichtlich nicht möglich.
+
+*Adorno spricht in den Küchengesprächen von der Zeit nach dem Zweiten Weltkrieg als einer geschichtlichen Atempause.  Viele Kritiker wie Anhänger Adornos folgern daraus, er habe sich in einen Elfenbeinturm zurückgezogen, reine Theorie betrieben und politische Praxis für unmöglich erklärt. Aber verwundert es da nicht, dass er noch 1956 von der Notwendigkeit einer sozialistischen Partei spricht? Wie ist es in diesem Kontext zu verstehen, dass Adorno sein Projekt als eine Art Flaschenpost beschreibt?*
+
+Adorno hat in der „Negativen Dialektik“ etwas formuliert, das ihm selbst in der Auseinandersetzung mit Horkheimer bewusst geworden ist. Deswegen habe ich einen berühmten Brief über Habermas aus dem Jahr 1958 am Ende meiner Adorno-Biographie abgedruckt.[ Horkheimer weist Adorno darin noch einmal darauf hin, dass man an die Marx‘schen Frühschriften nicht in dem Sinne anknüpfen könnte, als ob es jemals wieder eine vormärzliche Situation geben wird, d.h. eine Situation, in der die Revolution kurz bevorsteht.
+
+Das Resultat der „Küchengespräche“ ist meiner Meinung nach, dass sich diese Situation nicht wiederbeleben lässt, und dass es deshalb auch nicht zu einer Reformulierung des „Kommunistischen Manifests“ gekommen ist. Die Diskussion dreht sich ja darum, ob man das machen könnte und dass es nicht geschehen ist.
+
+*Für Adorno und Horkheimer betrifft das Fehlen der Partei die Theorie selbst. Dass Praxis versperrt ist, beschädige auch die Möglichkeit Theorie zu betreiben. Wie gehen Sie mit diesem Problem um?*
+
+Die Kritische Theorie hat auf Menschen wie mich einen Reiz ausgeübt, weil sie an dem revolutionären Anspruch einer fundamentalen Veränderung der Gesellschaft festhält. Und zugleich kommt sie zu der Einsicht, dass die bisherigen Versuche untauglich gewesen sind, diese fundamentale Veränderung der Gesellschaft durchzusetzen.
+
+Meine eigene Lebensgeschichte und die Erfahrungen der letzten 40 Jahre bestärken mich darin, dass es dieser fundamentalen Veränderungen bedurft hätte. Die Gesellschaft, in der wir leben, hat ein ungeheuerliches Destruktionspotenzial und reproduziert es stetig. Es hat nicht einen einfachen Fortschritt der Humanität gegeben. Auch der Zusammenbruch der realsozialistischen Welt 1989 hat nicht zu einem Ende der Geschichte und der liberalen Wirklichkeit geführt, sondern wir erleben gerade die Reproduktion uralter gefährlicher Phänomene wie Antisemitismus und Rassismus sowie die unglaubliche Ausweitung eines Überwachungsstaates.
+
+Man muss an diese durchaus richtige Seite der „Dialektik der Aufklärung“ anknüpfen. Aber man muss auch neue intellektuelle, theoretische Mittel finden, um Möglichkeiten der Veränderung zu entdecken. In diesem Sinne müssen wir kritische Intellektuelle unser Publikum finden.
+
+*Adorno hatte ein Publikum in der Studentenbewegung. Welche Potentiale und Probleme hat er in diesem Publikum gesehen und hervorgehoben?  *
+
+Dies wird an der Auseinandersetzung mit Marcuse deutlich. Marcuse war viel näher an den Protestbewegungen dran. Er hat sie auch nicht so sehr unter dem Aspekt revolutionärer Praxis überfordert wie Adorno.  Adorno hat den Begriff der revolutionären Praxis sehr hoch gehalten und die Protestbewegung daran gemessen. Ich glaube, dass Marcuse das nicht gemacht hat und deswegen auch ein anderes Verhältnis zu ihr hatte. Ein Problem der Protestbewegung bestand darin, dass sie ihre Praxis, die durchaus legitim war, mit einem revolutionären Selbstmissverständnis überfrachtet hat.
+
+*Worin sehen Sie die Gründe für die unterschiedliche Einstellung von Adorno und Marcuse gegenüber der Studentenbewegung?*
+
+Ganz entscheidend ist die Bürgerrechtsbewegung in den Vereinigten Staaten gewesen. Marcuse hatte einen direkten Kontakt zu den Aktivisten, die in den frühen 60er Jahren in den Süden gegangen sind. Er hat gesehen, dass die Protestbewegung aus dieser Bürgerrechtsbewegung hervorgegangen ist, in der es zu Beginn überhaupt nicht den Anspruch einer revolutionären Praxis gab. Sie wollte die rassistische Struktur der Vereinigten Staaten infrage stellen. Deswegen hat es eine viel organischere Beziehung von Marcuse zur Protestbewegung gegeben, während die Verhältnisse in Europa doch andere gewesen sind.
+
+Für Marcuse hatte die Praxis der Protestbewegung eine katalysatorische Funktion. Ich denke dabei auch an die berühmte Randgruppentheorie, die er am Ende von „Der eindimensionale Mensch“ aufstellt. Darin hat er diese Randgruppen vom hohen Anspruch revolutionärer Praxis suspendiert. So ist es Marcuse deutlich leichter gefallen, die Protestbewegung realistisch wahrzunehmen. Ihre Ziele – Vietnam, später der Feminismus – haben letztlich katalysatorisch auf die Gesellschaft gewirkt.
+
+{{% figure src="/img/Bild-5.jpg" caption="Folkmusiker Joan Baez und Bob Dylan bei dem sog. Marsch auf Washington am 28. August 1963. Die Demonstration mit über 200.000 Menschen war eine der Höhepunkte der Bürgerrechtsbewegung in den Staaten. Martin Luther King hielt dort seine Rede „I have a dream“." %}}
+
+*Was genau heißt „katalysatorische Funktion“?*
+
+Die Bewegungen haben die Gesellschaft mobilisiert, ohne selbst revolutionäres Subjekt zu sein. Sie haben für Fragen sensibilisiert, für die die Gesellschaft vorher nicht offen war. In dem Sinne stellt die Bürgerrechtsbewegung durchaus einen Erfahrungshintergrund dar, der einen dazu veranlassen kann – und nach Marcuse eben auch soll –, weiterzumachen und nicht alles auf eine bloß machtpolitische Veränderung der Gesellschaft zu setzen. Er wollte die emanzipativen Tendenzen innerhalb der Gesellschaft aufgreifen, ausformulieren und weitertreiben. Das war der richtige Blick, den Marcuse auf die sozialen Protestbewegungen der 60er und 70er Jahre hatte.
+
+Man darf Folgendes nicht vergessen, was durch Ihre Diskussion des Leninismus ein bisschen zur Seite gewischt wird: Entscheidend für die Kritische Theorie und insbesondere die Theorie Adornos ist ja die Erfahrung der Massenvernichtung der europäischen Juden. Das heißt, auch mit diesem Dilemma muss man fertig werden: dass es eine revolutionäre Antwort darauf gar nicht gibt, weder theoretisch noch praktisch, und schon gar nicht in der Marx’schen oder Lenin’schen Theorie – die bewegen sich ja noch in einem Universum einer vernünftigen Welt. Ganz überspitzt könnte man sagen, dass die Aufrechterhaltung der kapitalistischen Ordnung ein irrationaler Akt ist, der sich nur aus der Erhaltung der Macht begründet. Spätestens die Erfahrung der Massenvernichtung der europäischen Juden hat diese ganze rationale Welt völlig in Frage gestellt.
+
+*Wie hat sich die Shoah auf die Kritische Theorie ausgewirkt?*
+
+Ursprünglich war der zentrale Ausgangspunkt der Kritischen Theorie das Scheitern der Revolution in den westlichen Ländern gewesen. Deswegen hat sich die Kritische Theorie auf das Verhältnis von kapitalistischer Gesellschaft, Proletariat und gesellschaftlicher Entwicklung bezogen. Durch die Massenvernichtung der europäischen Juden hat dann eine Veränderung im Denken eingesetzt, die ungefähr zwischen 1939 und 1941 zu datieren ist. Davor hat eine rationalistische Konstruktion existiert: dass man durch eine revolutionäre Veränderung das Verhältnis zwischen Vernunft und Gesellschaft wieder in die richtige Relation bringen könne. Dieser Rationalismus ist dann aufgegeben worden, was zur „Dialektik der Aufklärung“ und später zur „Negativen Dialektik“ geführt hat.  
+
+*Wie verstehen Sie es, dass Adorno und Horkheimer von einer Dialektik in Bezug auf Aufklärung und Vernunft sprechen?*
+
+Bei Adorno und Horkheimer ist dies eine Abkehr von einer rationalistischen Konstruktion von Theorie und Wirklichkeit, wie sie noch von der Aufklärung über Hegel bis Marx, Engels und Lenin das Denken beherrscht hat. Bei Lenin finden Sie keinen Gedanken über die „Dialektik der Aufklärung“. Die Vorstellung, dass der Fortschritt der Produktivkräfte das revolutionäre Potenzial reduzieren könnte, das ist eigentlich das Neue, was in der „Dialektik der Aufklärung“ eine Rolle spielt.
+
+*Sie sagen einerseits, dass es für die Kritische Theorie keine revolutionäre Antwort auf die Probleme der Moderne nach der Shoah gibt. Andererseits, dass zumindest Adorno an einem revolutionären Anspruch festgehalten hat und die Protestbewegung damit überfordert hätte. Wie passt das zusammen?*
+
+Ich sagte ja unter heutigen Bedingungen. Im kurzen Jahrhundert ist die emanzipative Kraft von Revolutionen an ein Ende gekommen. Das trifft beispielhaft auf die Erfahrungen der sozialen Revolutionen in Russland und China zu. Die Revolutionen in beiden Ländern haben zu einer drastischen Stärkung des Repressionsapparats geführt. In beiden Gesellschaften waren revolutionäre Kaderorganisationen der Motor dieser Entwicklung. Das Ausmaß der Repressionen ist nur mit denen des Faschismus vergleichbar, sie übertreffen diesen vielleicht sogar. Ich sage nicht, dass diese Revolutionen von Anfang an illegitim gewesen wären. Aber sie hatten verheerende Konsequenzen.
+
+Auch die antikolonialen Befreiungsbewegungen sind in einem unglaublichen Desaster gemündet. Das heißt nicht, dass sie anfangs nicht legitim gewesen sind. Aber sie haben in eine Beherrschung geführt, die kaum vorstellbar durch irgendeine Revolution wieder abgelöst werden kann. Die Gegenbewegung zur Algerischen Revolution ist islamistischer Terrorismus, der um keinen Deut besser ist – eher schlimmer. Hier führt eine Revolution allenfalls zu einer Dissoziation der Machtzentren. Damit ist die Vorstellung einer Revolution, bei der die gesellschaftliche Macht nur von der einen in die andere Hand wechselt, in Frage gestellt. Auch der Zusammenbruch der Sowjetunion hat nur den alten Machtapparat übriggelassen. Emanzipative Vorstellungen sind heute in Russland nur bei den Leuten vorhanden, die inzwischen als ausländische Agenten diffamiert werden. Was man tun kann: dort alle Verfolgten unterstützen, so wie z.B. Amnesty International das tut. Das klingt sehr unspektakulär. Aber es ist unbedingt notwendig, dass wir die Opfer staatlicher Repressalien unterstützen, solange wir das noch ungefährdet machen können.
+
+*Welche Rolle spielen da kritische Intellektuelle noch?*
+
+Wir können Demokratisierungsprozesse in allen Teilen der Welt unterstützen – zum Beispiel in der Türkei. Eine Revolution würde zentrale Probleme der türkischen Gesellschaft überhaupt nicht lösen, allein schon hinsichtlich der Kurdenfrage. Auch hier sehen wir, in welche politischen Sackgassen marxistisch-leninistische Organisationen die Opposition führen. Es ist unglaublich wichtig, dass die Menschen sich gegenseitig als demokratische, gesellschaftsverändernde Kräfte anerkennen. Nur so kann es, glaube ich, zu einer vernünftigen Veränderung in der Türkei kommen.
+
+*Axel Honneth, der Direktor des Instituts für Sozialforschung, hat 2015 ein Buch über die Idee des Sozialismus geschrieben. Seine These ist, dass der Sozialismus ursprünglich auf Freiheit und die Realisierung der Ideale der französischen Revolution hingearbeitet hat. Honneth sieht sich damit in der Tradition der Kritischen Theorie. Stimmen Sie Honneth zu?*
+
+Honneth versucht den Sozialismus aus der Ideenwelt wiederzubeleben. Der gesellschaftsverändernde Anspruch des Sozialismus ist aber weniger eine Idee als eine praktische Bewegung. Das widersprüchliche Verhältnis zu dieser Bewegung ist kennzeichnend für die Kritische Theorie. Bei Honneth ist die Veränderung der Theorie immer ein Reflex auf gedankliche Bewegungen und nicht auf gesellschaftliche Realitäten – er vertritt ein Verständigungstheorem.
+
+Ich würde dagegen sagen, dass die Kritische Theorie einen außerakademischen Impuls hat. Sie wurde durch die Gleichzeitigkeit des Erfolgs der Oktoberrevolution und des Scheiterns der deutschen Revolution in Gang gesetzt. Die gesellschaftliche Veränderung setzt das theoretische Denken in Gang. Das gilt auch für den Faschismus in Deutschland, der das Denken von Adorno und Horkheimer verändert hat. Es sind stets gesellschaftliche Erfahrungen, die veränderte Denkprozesse in Gang setzen. Bei Honneth ist es immer umgekehrt: Wenn man nur richtig denken würde, dann hätte man das ja schon alles vor hundert Jahren wissen können. Die Fehler werden im Denken gesucht. Verändertes Denken wird aber nur durch veränderte gesellschaftliche Verhältnisse möglich.
+
+*Hegel ging davon aus, dass gesellschaftliche Veränderungen immer nur rückblickend erkannt werden können. Marx hingegen postuliert, dass die Theorie selbst zur verändernden Kraft werden muss. Wie findet sich dieser Impuls in der Kritischen Theorie wieder?*
+
+Ein ganz wesentliches Moment der Kritischen Theorie ist Wissenschaftskritik, also ein kritisches Verhältnis zur Wissenschaft als traditioneller Theorie. Bei Honneth, im Gefolge von Habermas, hat sich das Verhältnis verändert. Sie wollten die Kritische Theorie in der akademischen Welt verankern. Indem sie sie etablierten, haben sie ihr raison d‘étre zerstört. Denn Kritische Theorie hatte ihre wesentlichen Impulse immer außerhalb des akademischen Betriebs erhalten. Doch es war eine politische Entscheidung, das Institut für Sozialforschung so weiterzuführen und Kritische Theorie in traditionelle Theorie zu verwandeln. So kann sie jeder beerben, der will.
+
+Ich möchte meine Kritik an Honneth und Habermas allerdings einschränken: Wir haben ja auch in Hannover versucht, die Kritische Theorie in die Universität zu integrieren, gleichzeitig aber außerakademische Impulse und Aktivitäten aufrechtzuerhalten. Doch das ließ sich auf  Dauer gar nicht durchhalten. Insofern ist es nicht nur böser Wille von Honneth und Habermas, sondern eben ein Widerspruch in sich – ein Widerspruch, den Horkheimer und Adorno ausgehalten haben. Gerade das macht das Ansprechende an der Kritischen Theorie aus.
+
+*Wie sehen Sie die Zukunft der Kritischen Theorie?*
+
+Ich fürchte, dass es für das Institut für Sozialforschung als ein Institut von Kritischer Theorie gar keine Zukunft mehr geben wird. Es gibt keine Nachfolge mehr, die ein Institut begründen könnte, das sich kritisch gegenüber der Entwicklung der Soziologie positioniert. Was ein Institut für Sozialforschung leisten müsste, wäre eigentlich eine Kritik der traditionellen Soziologie; eine Erneuerung der Gesellschaftstheorie, die auch ökonomiekritisch begründet wäre. Das ist eine Leerstelle, obwohl dies doch eigentlich die Erbschaft der Kritischen Theorie ausmacht, wie sie von Horkheimer und Adorno noch betrieben wurde. Sie setzten eine Kritik der politischen Ökonomie voraus, wie sie noch Marx gelehrt hat. Die Impulse der ursprünglichen Kritischen Theorie sind verschwunden. Deswegen kann man auch ganz schlecht die Forderung aufstellen, die Kritische Theorie wiederzubeleben – denn entsprechende Akteure gibt es nicht. | **P**
