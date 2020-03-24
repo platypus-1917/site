@@ -11,7 +11,7 @@ More time has passed between our moment and 1968 than between the Russian Revolu
 
 - \* **Students for a Democratic Society**, [Port Huron Statement](http://www2.iath.virginia.edu/sixties/HTML_docs/Resources/Primary/Manifestos/SDS_Port_Huron.html) (1962)
 
-- \* **Irwin Unger's** [*The Movement*](https://www.amazon.com/Movement-History-American-Left-1959/dp/0060467266)(1974); see also Unger’s [retrospective of 1968](http://www.lehman.edu/vpadvance/artgallery/gallery/turning_point/unger.htm). ][]
+- \* **Irwin Unger\'s** [*The Movement*](https://www.amazon.com/Movement-History-American-Left-1959/dp/0060467266)(1974); see also Unger’s [retrospective of 1968](http://www.lehman.edu/vpadvance/artgallery/gallery/turning_point/unger.htm). ][]
 
 - Kirkpatrick Sale, [*SDS*] (1973)
 
@@ -35,7 +35,7 @@ More time has passed between our moment and 1968 than between the Russian Revolu
 ## Week 2
 _Theory and Practice I_
 
-### Frankfurt School and the New Left: the 1930s and the '60s
+### Frankfurt School and the New Left: the 1930s and the \'60s
 
 >In socialism, freedom is to become a reality. But because the present system is called 'free' and considered liberal, it is not terribly clear what this might mean... Not only [the Little Man's] lack of freedom but that of [his betters] as well spells his doom. His interest lies in the Marxist clarification of the concept of freedom... The socialist order of society is not prevented by world history; it is historically possible. But it will not be realized by a logic that is immanent to history but by men trained in theory and determined to make things better. Otherwise, it will not be realized at all. (Horkheimer 1926--31)
 

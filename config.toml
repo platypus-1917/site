@@ -7,7 +7,7 @@ cleanDestinationDir = true
 metaDataFormat = "yaml"
 pygmentCodeFences = true
 pygmentsUseClasses = true
-theme = "beautifulplatypus"
+theme = "beautiful"
 title = "Platypus"
 [author]
 facebook = "platypusreview"

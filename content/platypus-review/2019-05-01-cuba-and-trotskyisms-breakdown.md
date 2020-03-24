@@ -1,6 +1,6 @@
 ---
 article-type: ["Article"]
-authors: "C. D. Hardy"
+authors: ["C. D. Hardy"]
 issue: "116"
 date: "$1"
 excerpt: "\"THE REVOLUTION MAROONED,\" published in the Platypus Review #114, contains valuable observations on the heroism and tragedy of the Cuban revolution. It also demonstrates how Trotskyist methodology has lost the ability to explain the present convincingly. An examination of how Trotskyists responded to the Cuban revolution reveals degenerative weaknesses in their interpretation, most notably an equivocal conception of Stalinism."

@@ -1,6 +1,6 @@
 ---
 article-type: ["Article"]
-author:
+authors:
  - Chris Cutrone
 issue: "123"
 date: "2020-02-01"

@@ -28,7 +28,7 @@ But, at the last minute, several days before the forum, Mike Klonsky and Bill Ay
 
 The following is a response written by members of the Platypus Historians Group who helped prepare the forum. Appended below this response are the original forum description and questions for discussion circulated to the panelists.
 
-## Requiem for the '60s
+## Requiem for the \'60s
 
 The youthful (then, pre-) Marxist German literary critic, historian and philosopher Walter Benjamin wrote at age 21 in 1913, during the ennui of the terminal crisis of modern European civilization, but just before the advent of its apocalypse in 1914, that "experience" is an ambiguous concept, especially from the standpoint of youth. As an admonition in the mouths of one's elders, "experience" means not merely a caution against the folly of youth, but the message that "it's all been tried already -- and failed," which, to Benjamin's rebellious mind, poorly conceals the conclusion that "life is meaningless." Benjamin found this deference to past experience intolerable, and so should we.
 
