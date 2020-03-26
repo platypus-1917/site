@@ -8,7 +8,6 @@ issuedate: ''
 keywords: ["The Left"]
 article-type: ["Article"]
 tags: ["Platypus", "The Left", "Psychoanalysis", "Sigmund Freud"]
-current: true
 thumbnail: /img/psychoanalytic-couch.jpg
 weight: 1
 excerpt: WHAT DOES IT MEAN TO SAY that Platypus is the psychoanalyst of the Left? Thinking through this analogy can provide some clarity about the Platypus project and its relationship to the existing Left.

@@ -5,7 +5,6 @@ date: 2019-04-01
 authors: ["Efraim Carlebach"]
 article-type: ["Article"]
 issue: "115"
-current: true
 tags: ["Mark Fisher",
   "Accelerationism",
   "post-capitalism",

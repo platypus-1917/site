@@ -14,7 +14,7 @@ tags:
 - 1960s
 - /20th Century
 - History of the Left
-title: Requiem for the '60s
+title: Requiem for the 60s
 subtitle: Response to a boycott of discussion of "40 years of 1968"
 ---
 

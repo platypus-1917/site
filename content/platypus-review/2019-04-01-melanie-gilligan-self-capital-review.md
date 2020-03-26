@@ -5,7 +5,6 @@ date: 2019-04-01
 authors: ["Max Fields"]
 article-type: ["Review"]
 issue: "115"
-current: true
 weight: 2
 excerpt: "CREATED IN 2009, Self-Capital explores the complex interactions that connect bio-power and imposing neoliberal capitalist structures with the ill, but recovering, social body. Throughout each of the three episodes viewers follow a personified Global Economy, portrayed by actress Penelope McGhie, as she struggles to work through a series of prescribed body-oriented techniques and exercises."
 thumbnail: "/img/max-fields-therapist.png"

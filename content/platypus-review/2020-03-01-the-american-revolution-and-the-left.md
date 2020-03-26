@@ -5,7 +5,7 @@ authors:
 issue: "124"
 date: "2020-03-01"
 excerpt: ANY REVOLUTION IN THE UNITED STATES will express the desire to preserve, sustain and promote the further development of the original American Revolution. The future of socialism, not merely in North America but in the whole world, depends on the fate of the American Revolution.
-thumbnail: "/nhj-cancel-1776.png"
+thumbnail: "/img/nhj-cancel-1776.png"
 title: The American Revolution and the Left
 aliases: "/2020/03/01/the-american-revolution-and-the-left/"
 ---

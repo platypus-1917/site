@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2009/05/15/resurrecting-the-30s
-title: Resurrecting the '30s
+title: Resurrecting the 30s
 subtitle: A response to David Harvey and James Heartfield
 date: 2009-05-15
 authors: ["Ian Morrison"]

@@ -63,7 +63,7 @@ The *Platypus Review* expresses a desire to "bury the dead," or, better, to acti
 - Living Marxism *James Heartfield*
 - Why the U.S. stimulus package is bound to fail *David Harvey*
 - Symptomology: Historical transformations in social-political context *Chris Cutrone*
-- Resurrecting the '30s: A response to David Harvey and James Heartfield *Ian Morrison*
+- Resurrecting the 30s: A response to David Harvey and James Heartfield *Ian Morrison*
 - Letter from Greece: Brief notes on revolt and crisis in Greece and the Greek situation *Thodoris Velissaris*
 - Radical interpretations of the present crisis *David Graeber, Saul Newman, Hillel Ticktin, and James Woudhuysen*
 - The politics of work *Stanley Aronowitz, Robert Pollin, and Jason Wright*

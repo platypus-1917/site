@@ -11,7 +11,7 @@ categories:
  - Patrick Finan
  - Sheffield Media
 date: "2019-04-12"
-thumbnail: "democracybanner-950x4252-e1353913236529.jpg"
+thumbnail: "/img/democracybanner-950x4252-e1353913236529.jpg"
 title: "Democracy and the Left (Sheffield)"
 aliases: "/2019/04/12/democracy-and-the-left-sheffield/"
 ---

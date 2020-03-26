@@ -1,6 +1,0 @@
-<div class = "date-meta">
-
-  {{ if .Params.issue }}{{ else if eq .Params.showthedate false }}{{ else }} <!-- This is a greasy hack, change to getting page type -->
-
-  {{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format | i18n "postedOnDate" }} </div>
-  {{ end }}

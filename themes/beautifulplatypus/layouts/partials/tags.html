@@ -1,6 +1,0 @@
-<span class="post-meta">
-  <h4>Tags</h4>
-  {{ range .Params.tags }}
-    <a href="{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}/">{{ . | upper}}</a>&nbsp;
-  {{ end }}
-</span>
