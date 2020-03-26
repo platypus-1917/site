@@ -1,84 +1,18 @@
 {{ define "main" }}
   <div role="main" class="container">
-    <div>
+    <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         {{ with .Content }}
+          <div class="well">
             {{.}}
+          </div>
         {{ end }}
 
         <div class="posts-list">
           {{ $latest := index ( sort site.Pages ".Params.issue" "desc" ) 0 }}
           {{ $pag := .Paginate (where site.Pages ".Params.issue" $latest.Params.issue) }}
           {{ range $pag.Pages }}
-
-            <article class="post-preview">
-
-              <a href="{{ .Permalink }}">
-                <h2 class="post-title">{{ .Title | markdownify }}</h2>
-                {{ if .Params.subtitle }}
-                  <h3 class="post-subtitle">
-                  {{ .Params.subtitle | markdownify }}
-                  </h3>
-                {{ end }}
-
-                {{ if .Params.authors }}
-                <h2 class="post-author">
-                    {{ if and (.Params.interviewees) (.Params.authors) }} <!-- for interviews -->
-                    {{ range $index, $interviewee := .Params.interviewees }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "interviewees/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}, <em>interviewed by
-                    {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }},{{ end }}
-                    <a href="{{ "authors/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}</em>
-
-                    {{ else if .Params.authors }}
-                      {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "authors/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}
-                          {{ end }}
-                  </h2>
-                {{ end }}
-<div class="flex-container">
-
-              <div>
-              <!--<div class="col-sm-4">-->
-                <div class="post-image">
-                  {{ if .Params.thumbnail }}
-
-                <a href="{{ .Permalink }}">
-                  <img src="{{ .Params.thumbnail }}">
-                </a>  <!-- Find some way to automatically use the first image as the thumbnail if possible? -->
-
-                {{ else }}
-
-                  <a href="{{ .Permalink }}">
-                    <img src="/img/platypus-logo-small.png">
-                  </a> <!--puts in generic thumbnail image -->
-
-                {{ end }}
-                </div>
-                  <!--</div>-->
-                {{ if .Params.issue }}
-                <p class="issue-info"> <a href={{ "issue/" | relLangURL }}{{ .Params.issue | urlize }}>
-
-                Platypus Review #{{ .Params.issue }} | {{ if .Params.issuedate }} {{.Params.issuedate | markdownify }} {{else}} {{ .Date.Format "January 2006" }} {{ end }}</a>
-                </p>
-                  {{ end }}
-                {{ if .Params.excerpt }}
-            <div class="post-entry">
-              <a href="{{ .Permalink }}">
-                {{ .Params.excerpt | markdownify }}</a>
-              <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
-            </div>
-                {{ else }}
-              <div class="post-entry">
-                {{ if .Truncated }}
-                  <a href="{{ .Permalink }}">{{ .Summary | markdownify }}</a>
-                  <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
-                  {{ else }}
-                    <a href="{{ .Permalink }}">
-                    {{ .Content | markdownify }}</a>
-                {{ end }}
-              </div>
-                {{ end }}
-                </div>
-              </div>
-            </article>
+            {{ partial "post_preview" . }}
           {{ end }}
         </div>
 
