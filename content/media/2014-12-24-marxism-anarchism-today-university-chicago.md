@@ -5,7 +5,7 @@ aliases:
 speakers:
 - Mel Rothenberg
 - Michael Staudenmaier
-- Christopher P.
+- Christopher P
 - Jamie Theophilos
 tags:
 - Marxism

@@ -2,7 +2,7 @@
 aliases:
 - /2015/05/02/american-left-black-question-politics-protest-post-political
 authors:
-- Adolph L. Reed, Jr.
+- Adolph L. Reed, Jr
 - August Nimtz
 - Brandon Johnson
 - Toby Chow

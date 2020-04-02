@@ -15,7 +15,7 @@ speakers:
 - Jerzy Sobotta
 - Laurie Rojas
 - Nathan Smith
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Sunit Singh
 - Thodoris Velissaris
 ---

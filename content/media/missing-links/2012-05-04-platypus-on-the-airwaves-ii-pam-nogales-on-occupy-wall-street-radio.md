@@ -13,7 +13,7 @@ tags:
 - OWS
 - WBAI
 speakers:
-- Pam C. Nogales C.
+- Pam C. Nogales C
 
 ---
 _On May 4, 2012, Platypus member [Pam Nogales](/speakers/pam-c-nogales-c) made an appearance on WBAI (99.5 FM) Occupy Wall Street Radio._

@@ -8,7 +8,7 @@ tags:
 - The Party
 article-type: ["Transcript"]
 authors:
-- Adolph L. Reed, Jr.
+- Adolph L. Reed, Jr
 - Chris Cutrone
 - Mike Macnair
 - Tom Riley

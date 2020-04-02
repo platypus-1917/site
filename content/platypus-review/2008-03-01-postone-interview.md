@@ -2,7 +2,7 @@
 aliases:
 - /2008/03/01/marx-after-marxism-an-interview-with-moishe-postone
 authors:
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Benjamin Blumberg
 interviewees:
 - Moishe Postone

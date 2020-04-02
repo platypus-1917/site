@@ -14,7 +14,7 @@ tags:
 - Marxist Literary Group
 speakers:
 - Karl Marx
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Spencer A. Leonard
 ---
 

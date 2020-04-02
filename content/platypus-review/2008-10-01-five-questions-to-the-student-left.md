@@ -2,7 +2,7 @@
 aliases:
 - /2008/10/01/five-questions-to-the-student-left
 authors:
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Benjamin Shepard
 issue: "7"
 article-type:

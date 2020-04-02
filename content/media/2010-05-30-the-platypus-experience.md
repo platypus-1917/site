@@ -10,7 +10,7 @@ tags:
 - Platypus International Convention 2010
 speakers:
 - Ashley Weger
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Richard Rubin
 ---
 

@@ -1,7 +1,7 @@
 ---
 aliases:
 - /2008/03/01/review-iran-insights-into-its-religion-politics-and-power
-authors: ["Pam C. Nogales C."]
+authors: ["Pam C. Nogales C"]
 issue: "3"
 date: 2008-03-01
 tags:

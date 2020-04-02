@@ -6,7 +6,7 @@ speakers:
 - Alexander Hanna
 - C.J. Pereira Di Salvo
 - Laurie Rojas
-- Pam C. Nogales C.
+- Pam C. Nogales C
 tags:
 - Left Forum
 - Left Forum 2009

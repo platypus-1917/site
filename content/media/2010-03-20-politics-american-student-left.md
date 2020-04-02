@@ -15,7 +15,7 @@ speakers:
 - Ashley Weger
 - Easton Smith
 - Hannah Rappleye
-- Pam C. Nogales C.
+- Pam C. Nogales C
 series:
 - Left Forum 2010
 - Left Forum

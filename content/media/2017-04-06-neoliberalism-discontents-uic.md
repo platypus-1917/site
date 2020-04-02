@@ -3,7 +3,7 @@ speakers:
 - Danny Jacobs
 - Reid Kane
 - Catherine Liu
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Daniel Rudin
 tags:
 - Neoliberalism
@@ -26,7 +26,7 @@ _Recording of a panel hosted by the Platypus Affiliated Society at the Universit
 
 - Catherine Liu
 
-- Pam C. Nogales C.
+- Pam C. Nogales C
 
 - Daniel Rudin
 

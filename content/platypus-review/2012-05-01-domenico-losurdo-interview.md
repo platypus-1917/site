@@ -2,7 +2,7 @@
 aliases:
 - /2012/05/01/liberalism-and-marx-domenico-losurdo
 authors:
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Ross Wolfe
 issue: "46"
 article-type: ["Interview"]

@@ -2,7 +2,7 @@
 aliases:
 - /2009/02/01/the-new-school-occupation-and-the-direction-of-student-politics-an-interview-with-atlee-mcfellin
 authors:
-- Pam C. Nogales C.
+- Pam C. Nogales C
 interviewees:
 - Atlee McFellin
 issue: "10"

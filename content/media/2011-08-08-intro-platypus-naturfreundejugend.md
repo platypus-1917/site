@@ -9,7 +9,7 @@ speakers:
 - Jacob Cayia
 - Jerzy Sobotta
 - Omair Hussain
-- Pam C. Nogales C.
+- Pam C. Nogales C
 ---
 
 _Panel organized by the Platypus Affiliated Society presented at the 2011 Naturfreundejugend (Friends of Nature) Berlin Herrschaftskritisches Sommercamp, held in August 2011._

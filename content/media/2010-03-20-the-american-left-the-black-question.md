@@ -12,7 +12,7 @@ tags:
 speakers:
 - Benjamin Blumberg
 - Chris Cutrone
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Tim Barker
 series:
 - Left Forum 2010

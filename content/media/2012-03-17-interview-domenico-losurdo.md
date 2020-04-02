@@ -15,7 +15,7 @@ tags:
 - liberalism a counter-history
 speakers:
 - Domenico Losurdo
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Ross Wolfe
 series:
 - Left Forum 2012

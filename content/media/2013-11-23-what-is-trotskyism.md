@@ -9,7 +9,7 @@ tags:
 - Leon Trotsky
 - Trotskyism
 speakers:
-- Andrew R.
+- Andrew R
 - Andrew Swagner
 - Thomas Willis
 ---

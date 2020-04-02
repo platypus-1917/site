@@ -40,7 +40,7 @@ tags:
 - Sunni
 - The Left
 - The Right
-- U.N.
+- U.N
 - Vietnam
 - World Can't Wait
 title: Iraq and the election

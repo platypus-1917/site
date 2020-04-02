@@ -5,7 +5,7 @@ speakers:
  
  - Sammy Medina
  
- - Pam C. Nogales C.
+ - Pam C. Nogales C
  
  - Ross Wolfe
 date: 2012-12-04

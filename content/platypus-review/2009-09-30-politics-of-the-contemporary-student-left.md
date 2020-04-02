@@ -4,7 +4,7 @@ aliases:
 authors:
 - Carlos J. Pereira Di Salvo
 - Laurie Rojas
-- Pam C. Nogales C.
+- Pam C. Nogales C
 issue: "15"
 article-type:
 - Transcript

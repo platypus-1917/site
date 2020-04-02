@@ -18,7 +18,7 @@ media-type:
 series:
 - Teach-in
 speakers:
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Ross Wolfe
 - Sammy Medina
 ---

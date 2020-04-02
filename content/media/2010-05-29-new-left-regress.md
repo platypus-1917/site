@@ -15,7 +15,7 @@ tags:
 - Weather Underground
 speakers:
 - Greg Gabrellas
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Spencer A. Leonard
 ---
 

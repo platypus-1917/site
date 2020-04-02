@@ -21,7 +21,7 @@ tags:
 - Bourgeois Revolutions
 speakers:
 - Nathan Smith
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Richard Rubin
 - Tana Forrester
 - Benjamin Blumberg

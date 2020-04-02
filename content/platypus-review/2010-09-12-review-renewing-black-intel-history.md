@@ -8,7 +8,7 @@ article-type:
 - Review
 date: 2010-09-12
 tags:
-- Adolph Reed Jr.
+- Adolph Reed Jr
 - Barack Obama
 - Booker T. Washington
 - Franz Boas

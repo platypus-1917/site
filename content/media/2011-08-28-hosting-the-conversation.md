@@ -9,7 +9,7 @@ media-type: ["audio"]
 speakers:
 - Haseeb Ahmed
 - Jerzy Sobotta
-- Pam C. Nogales C.
+- Pam C. Nogales C
 - Watson Ladd
 ---
 

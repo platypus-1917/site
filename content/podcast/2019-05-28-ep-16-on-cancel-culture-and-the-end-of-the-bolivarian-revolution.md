@@ -4,7 +4,7 @@ categories:
  - Laurie Rojas
  - Media
  - Media Audio
- - Pam C. Nogales C.
+ - Pam C. Nogales C
  - Shit Platypus Says
 date: "2019-05-28"
 thumbnail: "/wp-content/uploads/artworks-000543011319-nus80m-t500x500.jpg"

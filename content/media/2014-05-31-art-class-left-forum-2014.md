@@ -9,7 +9,7 @@ tags:
 - Left Forum 2014
 - Art
 - Chto delat?
-- Critical Practices Inc.
+- Critical Practices Inc
 - What is to be done?
 speakers:
 - Bret Schneider
