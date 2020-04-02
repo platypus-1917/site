@@ -7,6 +7,7 @@ excerpt: "MY FAVORITE QUOTE FROM TOM PAINE is, \"The world is my country, all ma
 thumbnail: "https://platypus1917.org/wp-content/uploads/590px-Thomas_Paine.jpg"
 title: What would Tom Paine advocate today?
 aliases: "/2020/03/01/what-would-tom-paine-advocate-today/"
+current: true
 ---
 
 

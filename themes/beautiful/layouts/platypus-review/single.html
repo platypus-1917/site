@@ -5,18 +5,18 @@
 
 <div class="post-author">
     {{ if and (.Params.interviewees) (.Params.authors) }} <!-- for interviews -->
-    {{ range $index, $interviewee := .Params.interviewees }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "interviewees/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}<em><h3>Interviewed by
+    {{ range $index, $interviewee := .Params.interviewees }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "interviewees/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}<h3>Interviewed by
     {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}
 <a href="{{ "authors/" | relLangURL }}{{ . | urlize }}">{{ .| title -}}</a>{{ end }}
 {{- if .Params.translator }}; translated by{{ range $index, $translator := .Params.translator }}{{ if gt $index 0 }}, {{ end }}
-<a href="{{ "translator/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}</h3></em>
+<a href="{{ "translator/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}</h3>
         {{ end }}
 
     {{ else if .Params.authors }}
       {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "authors/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}
 
           {{ if .Params.translator }}
-            {{ range $index, $translator := .Params.translator }}{{ if gt $index 0 }}, {{ end }}<h3><em>Translated by <a href="{{ "translator/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}</h3></em>
+            {{ range $index, $translator := .Params.translator }}{{ if gt $index 0 }}, {{ end }}<h3>Translated by <a href="{{ "translator/" | relLangURL }}{{ . | urlize }}">{{ . | title }}</a>{{ end }}</h3>
             {{ end }}
       {{ end }}
   </div>
