@@ -13,10 +13,10 @@ tags:
 - John F. Kennedy
 - Martin Luther King
 - Barack Obama
-title: 'Obama: three comparisons: MLK, JFK, FDR'
-subtitle: The coming sharp turn to the *Right*
-
+title: "Obama: three comparisons: MLK, JFK, FDR"
+subtitle: "The coming sharp turn to the *Right*"
 ---
+
 IN PREVIOUS ARTICLES I have addressed the Presidential campaign of Barack Obama in terms of the historical precedents of MLK, Jr. ([the end of "black politics"](https://platypus1917.org/2008/09/01/obama-progress-in-regress-the-end-of-black-politics/)) and JFK ([Iraq and the election](hhttps://platypus1917.org/2008/10/01/iraq-and-the-election-the-fog-of-anti-war-politics/)). Now I wish to address the final and perhaps most important but problematic comparison that might be available, FDR.
 
 MLK, Jr., JFK and FDR span the political imagination of the preceding generation, the "baby-boomers" who came of age in the 1960s, the time of the "New Left."

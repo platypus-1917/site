@@ -14,10 +14,10 @@ tags:
 - Profiles
 title: 'Friedrich Hayek and the legacy of Milton Friedman: Neo-liberalism and the question of freedom'
 subtitle: In part, a response to Naomi Klein
-excerpt: 'A GOOD APPROACH TO THE TOPIC of Milton Friedman and his legacy today can be made indirectly, by reference to Friedman''s intellectual predecessor and mentor, Friedrich Hayek. It has been our point of departure in Platypus to regard the present as being conditioned by the undigested, and therefore problematic, legacies of at least two generations of failure on the ''Left'': the 1960s-70s ''New'' Left, and the ''Old'' Left of the 1920s-30s. We have critiqued the assumptions inherited from the 1960s not least because of problematic legacies they contain undigested from the 1930s, which have not been properly thought through even today.'
+excerpt: "A GOOD APPROACH TO THE TOPIC of Milton Friedman and his legacy today can be made indirectly, by reference to Friedman's intellectual predecessor and mentor, Friedrich Hayek. It has been our point of departure in Platypus to regard the present as being conditioned by the undigested, and therefore problematic, legacies of at least two generations of failure on the \"Left\": the 1960s-70s \"New\" Left, and the \"Old\" Left of the 1920s--30s. We have critiqued the assumptions inherited from the 1960s not least because of problematic legacies they contain undigested from the 1930s, which have not been properly thought through even today."
 thumbnail: "/img/naomiklein.jpg"
-
 ---
+
 _The following was prepared for presentation at the University of Chicago teach-in on "Who was Milton Friedman and what is his legacy?" Tuesday, October 14th, 2008._
 
 A GOOD APPROACH TO THE TOPIC of Milton Friedman and his legacy today can be made indirectly, by reference to Friedman's intellectual predecessor and mentor, Friedrich Hayek.
