@@ -148,11 +148,21 @@ figure {
     border:0px;
 }
 
+.avatar-container {
+    float: left;
+    margin-right: 10px;
+}
+
+.avatar-container img {
+    height: 100px;
+}
+
 .navbar-custom {
-  background: #aaa09f;
+  background:rgba(170, 160, 159, 1);
   border-bottom: 0px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 0px;
+  z-index: 1;
 }
 
 .navbar-custom .nav li a {
@@ -560,6 +570,7 @@ footer .theme-by {
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
+  z-index: 10;
 }
 .intro-header.big-img {
   background: no-repeat center center;

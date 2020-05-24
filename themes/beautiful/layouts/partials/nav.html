@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+<nav class="navbar navbar-default navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
@@ -7,6 +7,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      {{ if isset .Site.Params "logo" }}
+        <div class="avatar-container">
+            <img class="avatar-img" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
+        </div>
+        
+      {{end}}
       <a class="navbar-brand" href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
     </div>
 
