@@ -5,7 +5,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: #FFF;
+  background-color: #aaa09f;
   display: flex;
   flex-flow: column;
   height: 100vh;
@@ -138,7 +138,7 @@ figure {
 .img-responsive {
   display: block;
   width: auto;
-  max-height: ;
+  max-height: 100%;
 }
 
 /* --- Navbar --- */
@@ -149,8 +149,8 @@ figure {
 }
 
 .navbar-custom {
-  background: #000000;
-  border-bottom: 1px solid #000000;
+  background: #aaa09f;
+  border-bottom: 0px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 0px;
 }
@@ -324,7 +324,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #;
+  /* color: #; */
 }
 
 .post-preview .post-title {
