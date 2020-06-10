@@ -187,6 +187,7 @@ commit = false
 dateformat = "January 2, 2006"
 favicon = "img/favicon.ico"
 logo = "img/platypus-logo-small.png"
+caret = "img/caret-icon.png"
 pluralizelisttitles = true
 preservetaxonomynames = true
 rss = true

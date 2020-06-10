@@ -157,12 +157,22 @@ figure {
     height: 100px;
 }
 
+#main-navbar #caret-img {
+    height: 50px;
+    width: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+    left: 650px;
+    position: absolute;
+}
+
 .navbar-custom {
   background:rgba(170, 160, 159, 1);
   border-bottom: 0px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 0px;
   z-index: 1;
+  min-height: 150px;
 }
 
 .navbar-custom .nav li a {
