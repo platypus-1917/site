@@ -169,7 +169,7 @@ figure {
 .navbar-custom {
   background:rgba(170, 160, 159, 1);
   border-bottom: 0px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 0px;
   z-index: 1;
   min-height: 150px;
@@ -181,9 +181,16 @@ figure {
   letter-spacing: 1px;
 }
 
+.navbar-custom .navbar-brand {
+    font-weight: 700;
+}
+
+.navbar-custom a {
+    font-weight: 300;
+}
+
 .navbar-custom .navbar-brand,
 .navbar-custom a {
-  font-weight: 800;
   color: #ffffff;
 }
 
@@ -245,7 +252,7 @@ figure {
   background: #000000;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
-  font-weight: normal;
+  font-weight: 300;
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
